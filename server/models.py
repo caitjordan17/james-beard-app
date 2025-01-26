@@ -20,8 +20,8 @@ class Restaurant(db.Model, SerializerMixin):
     award_year = db.Column(db.Integer, nullable=False)
 
     # relationships
-    chef = db.relationship('Chef', back_populates='restaurants')
-    chef_id = db.Column(db.Integer, db.ForeignKey('chefs.id'))
+    restuarant_chef = db.relationship(
+        'Restaurant_chef', back_populates='restaurant')
 
     def __repr__(self):
         return f'<ID: {self.id}, Restaurant: {self.restaurant_name}>'
@@ -37,8 +37,22 @@ class Chef(db.Model, SerializerMixin):
     name = db.Column(db.String, nullable=False)
 
     # relationships
-    restaurants = db.relationship(
-        'Restaurant', back_populates='chef', cascade='all, delete-orphan')  # do we want cascade?
+    restuarant_chef = db.relationship(
+        'Restaurant_chef', back_populates='chef')
 
     def __repr__(self):
         return f'<ID: {self.id}, Name: {self.name}>'
+
+
+class Restaurant_chef(db.Model, SerializerMixin):
+    __tablename__ = "restaurant_chefs"
+    id = db.Column(db.Integer, primary_key=True)
+
+    restaurant_id = db.Column(db.Integer, db.ForeignKey('restaurants.id'))
+    restaurant = db.relationship(
+        'Restaurant', back_populates='restaurant_chef')
+    chef_id = db.Column(db.Integer, db.ForeignKey('chefs.id'))
+    chef = db.relationship('Chef', back_populates='restaurant_chef')
+
+    def __repr__(self):
+        return f'<ID: {self.id}, {self.restaurant_id}, {self.chef_id}>'
