@@ -1,20 +1,4 @@
-# Commands to get started
+# Restaurant Award Aggregator App
 
-FE
-npm install web-vitals
-npm start
-
-BE
-pip install requests
-pip install beautifulsoup4
-pip install sqlalchemy
-pip install sqlalchemy-serializer
-pip install flask
-pip install flask-cors
-pipenv install && pipenv shell
-cd server
-export FLASK_APP=app.py
-export FLASK_RUN_PORT=5555
-python app.py
-
-#nav to http://localhost:5555/api/awards
+### About
+Creating a database (& then app) that aggregates restaurant award data by restaurant so you can search by restaurant and see all the awards won & years won.
