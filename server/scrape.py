@@ -14,7 +14,7 @@ def scrape_jamesbeard():
     base_url = "https://www.jamesbeard.org/awards/search?categories%5BRestaurant+%26+Chef%5D=1&year=&keyword={city}&page={page}"
 
     for city in cities:
-        print("Scraping {city}...")
+        print(f'Scraping {city}...')
         for page in range(1, 11):
             url = base_url.format(city=city, page=page)
             r = requests.get(url)
@@ -31,29 +31,29 @@ def scrape_jamesbeard():
                 award_details = result_item.find_all(
                     "p", class_="c-award-recipient__text")
 
-                if not name or len(award_details) < 4:
-                    continue
-
-                award_name = f"James Beard - {award_details[0].text.strip(
-                )}, {award_details[-2].text.strip()}, {award_details[-1].text.strip()}"
-
-                if any(keyword in award_details[0].text.strip() for keyword in ["Chef", "Baker", "Restauranteur", "Hospitality", "Lifetime"]) and "Bakery" not in award_details[0].text.strip():
+                if any(keyword in award_details[0].text.strip() for keyword in ["Chef", "Baker", "Hospitality", "Lifetime", "Who", "Restauranteur"]) and "Bakery" not in award_details[0].text.strip():
                     chef = name.text.strip()
-                    restaurant = award_details[1].text.strip() if len(
-                        award_details) > 4 else "Unknown"
-                    location = award_details[2].text.strip() if len(
-                        award_details) > 4 else "Unknown"
                 else:
                     restaurant = name.text.strip()
+
+                    # restauranteur messing up restaurant object with multiple names, fix in google places api section, to spit out chefs json
+
+                if len(award_details) == 5:  # restaurant award
                     location = award_details[1].text.strip()
-                    chef = "Unknown"
+                    award_name = f'James Beard - {award_details[0].text.strip()}, {award_details[3].text.strip()}, {
+                        award_details[4].text.strip()}'
+                elif len(award_details) == 6:  # chef award
+                    restaurant = award_details[1].text.strip()
+                    location = award_details[2].text.strip()
+                    award_name = f'James Beard - {chef}, {award_details[0].text.strip()}, {award_details[4].text.strip()}, {
+                        award_details[5].text.strip()}'
 
                 restaurant_data[restaurant]["location"] = location
                 restaurant_data[restaurant]["awards"].add(award_name)
-                if chef != "Unknown":
+                if chef:
                     restaurant_data[restaurant]["chefs"].add(chef)
 
-                print("James Beard scraping complete.")
+    print("James Beard scraping complete.")
 
 
 def scrape_michelin():
@@ -63,7 +63,9 @@ def scrape_michelin():
     for num in range(1, 11):
         url = base_url.format(page=f'/page/{num}')
         r = requests.get(url)
-        r.raise_for_status()
+        if r.status_code == 404:
+            print("Michelin scraping complete.")
+            break
 
         soup = BeautifulSoup(r.content, 'html.parser')
         results = soup.find(
@@ -78,6 +80,7 @@ def scrape_michelin():
             get_award = result_item.find("img", class_="michelin-award")
             get_location = result_item.find(
                 "div", class_="card__menu-footer--score pl-text")
+            get_span = result_item.find("span", class_="distinction-icon")
 
             if not get_restaurant:
                 continue
@@ -88,16 +91,19 @@ def scrape_michelin():
             award = ""
             if get_award:
                 src_result = get_award["src"]
+
                 if "bib-gourmand" in src_result:
                     award = "Bib Gourmand"
-                elif "1star" in src_result:
+                elif str(get_span).count('src=') == 1 and str(get_span).count('gastronomie') == 0:
                     award = "1 Michelin Star"
-                elif "2star" in src_result:
-                    award = "2 Michelin Stars"
-                elif "3star" in src_result:
-                    award = "3 Michelin Stars"
-                elif "gastronomie" in src_result:
+                elif str(get_span).count('src=') == 1 and str(get_span).count('gastronomie') == 1:
                     award = "Michelin Green Star"
+                elif str(get_span).count('src=') > 1 and str(get_span).count('gastronomie') == 1:
+                    award = f'{str(get_span).count(
+                        'src="/assets/images/icons/1star-1f2c04d7e6738e8a3312c9cda4b64fd0.svg"')} Michelin Star, Michelin Green Star'
+                elif str(get_span).count('src=') > 1 and str(get_span).count('gastronomie') == 0:
+                    award = f'{str(get_span).count(
+                        'src="/assets/images/icons/1star-1f2c04d7e6738e8a3312c9cda4b64fd0.svg"')} Michelin Star'
 
             if award:
                 restaurant_data[restaurant]["location"] = location
@@ -105,7 +111,7 @@ def scrape_michelin():
 
     print("Michelin scraping complete.")
 
-# google places API
+# google places API, deal with Restaurateur
 
 
 def save_to_json(filename="restaurant_awards.json"):
