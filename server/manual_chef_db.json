@@ -1,0 +1,1170 @@
+[
+    {
+        "chef": "Lazy Bear",
+        "award_restaurants": [
+            "Copra"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Srijith Gopinathan",
+        "award_restaurants": [
+            "Copra"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Kristina Costa",
+        "award_restaurants": [
+            "The Morris",
+            "Loquat"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Gaby Maeda",
+        "award_restaurants": [
+            "The Morris",
+            "State Bird Provisions"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Laura Ozyilmaz",
+        "award_restaurants": [
+            "Dalida"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Sayat Ozyilmaz",
+        "award_restaurants": [
+            "Dalida"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Azalina Eusope",
+        "award_restaurants": [
+            "Azalina's"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Jeong-In Hwang",
+        "award_restaurants": [
+            "San Ho Won"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Weiling Lim",
+        "award_restaurants": [
+            "Mandalay",
+            "Kiln",
+            "Dabao Singapore"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "House of Prime Rib",
+        "award_restaurants": [
+            "Rintaro",
+            "Birch & Rye",
+            "Californios"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Sylvan Mishima Brackett",
+        "award_restaurants": [
+            "Rintaro",
+            "Pacific Cocktail Haven"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Kristina Liedags Compton",
+        "award_restaurants": [
+            "Hilda and Jesse"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Val M. Cant\u00fa",
+        "award_restaurants": [
+            "Californios"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Robbie Wilson",
+        "award_restaurants": [
+            "Cassava",
+            "Le Fantastique"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Vince Bugtong",
+        "award_restaurants": [
+            "ABACA",
+            "Lazy Bear",
+            "Cassava"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "David Nayfeld",
+        "award_restaurants": [
+            "Mourad",
+            "Che Fico",
+            "Trick Dog"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Ryan Pollnow",
+        "award_restaurants": [
+            "",
+            "Aatxe",
+            "Acquerello",
+            "Trick Dog",
+            "Foreign Cinema",
+            "Restaurant Gary Danko",
+            "Quince",
+            "Liholiho Yacht Club"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Swan Oyster Depot",
+        "award_restaurants": [
+            "Benu",
+            "Trick Dog"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Bill Corbett",
+        "award_restaurants": [
+            "Quince",
+            "Bar Agricole",
+            "Trick Dog",
+            "Absinthe Group"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Dominique Crenn",
+        "award_restaurants": [
+            "Benu",
+            "Atelier Crenn",
+            "Bar Agricole",
+            "Trick Dog",
+            "Saison",
+            "Nopa",
+            "Quince",
+            "Perbacco"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Melissa Chou",
+        "award_restaurants": [
+            "Bar Agricole",
+            "Mister Jiu\u00e2\u20ac\u2122s",
+            "AQ",
+            "Mourad",
+            "Aziza"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Mourad Lahlou",
+        "award_restaurants": [
+            "Mina Group",
+            "Mina Restaurants",
+            "Nopa",
+            "Rye on the Road",
+            "Greens",
+            "Mourad",
+            "Aziza"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Pim Techamuanvivit",
+        "award_restaurants": [
+            "Nari",
+            "Yasukochi's Sweet Stop",
+            "Kin Khao"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Jeremy Wayne",
+        "award_restaurants": [
+            "Restaurant Gary Danko",
+            "Acquerello",
+            "Lazy Bear",
+            "La Folie"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Clement Hsu",
+        "award_restaurants": [
+            "Breadbelly"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Katherine Campecino-Wong",
+        "award_restaurants": [
+            "Breadbelly"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "James Wong",
+        "award_restaurants": [
+            "Koi Palace, Dragon Beaux, Palette Tea House",
+            "Breadbelly"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Heena Patel",
+        "award_restaurants": [
+            "Besharam"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "David Yoshimura",
+        "award_restaurants": [
+            "Nisei"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Melissa K. Perello",
+        "award_restaurants": [
+            "Charles Nob Hill",
+            "Octavia",
+            "Fifth Floor",
+            "ABAC\u00c1"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Brandon Jew",
+        "award_restaurants": [
+            "Mister Jiu\u00e2\u20ac\u2122s",
+            "Mister Jiu's",
+            "Mister Jiu\u2019s"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Reem Assil",
+        "award_restaurants": [
+            "Reem's",
+            "Reem's California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Sasion",
+        "award_restaurants": [
+            "Koi Palace, Dragon Beaux, Palette Tea House"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Juan Contreras",
+        "award_restaurants": [
+            "Atelier Crenn",
+            "Mina Restaurants (Michael Mina, Bourbon Steak, RN74, and others)",
+            "Quince",
+            "Ne Timeas Restaurant Group (Flour + Water, Central Kitchen, Trick Dog and others)",
+            "China Live"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Gabriela C\u00e1mara",
+        "award_restaurants": [
+            "Quince",
+            "Cala"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Michael Tusk",
+        "award_restaurants": [
+            "",
+            "Flour + Water",
+            "A16",
+            "Tres Agaves",
+            "Quince",
+            "Boulevard, Epic, Farallon, Jardiniere, Martini House, Nick's Cove & Cottages, and Waterbar",
+            "Boulevard"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Alexander Hong",
+        "award_restaurants": [
+            "Benu",
+            "Bar Agricole",
+            "Sorrel",
+            "Saison",
+            "Zuni Caf\u00e9",
+            "Quince",
+            "Swan Oyster Depot"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Michael Mina",
+        "award_restaurants": [
+            "Flour + Water",
+            "Aqua",
+            "Rubicon",
+            "Michael Mina",
+            "Quince",
+            "Boulevard",
+            "Elisabeth Daniel"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Corey Lee",
+        "award_restaurants": [
+            "Benu",
+            "",
+            "Bar Agricole",
+            "Mina Group",
+            "Foreign Cinema",
+            "Cala",
+            "The Slanted Door",
+            "Perbacco"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Kim Alter",
+        "award_restaurants": [
+            "Nightbird"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Joshua Skenes",
+        "award_restaurants": [
+            "",
+            "Angler",
+            "Saison"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Brandon Rodgers",
+        "award_restaurants": [
+            "",
+            "Verjus",
+            "In Situ",
+            "In Situ at SFMOMA",
+            "Beit Rima",
+            "Angler",
+            "Swan Oyster Depot"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Charles Phan",
+        "award_restaurants": [
+            "Benu",
+            "Bar Agricole",
+            "Mina Group",
+            "Beretta",
+            "Boulevard",
+            "The Slanted Door"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Stuart Brioza",
+        "award_restaurants": [
+            "State Bird Provisions"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Nicole Krasinski",
+        "award_restaurants": [
+            "State Bird Provisions"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Matthew Accarrino",
+        "award_restaurants": [
+            "SPQR",
+            "A16",
+            "Foreign Cinema",
+            "Saison",
+            "Greens Restaurant",
+            "State Bird Provisions",
+            "The Abbot's Cellar",
+            "The Slanted Door"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Rachel Aronow",
+        "award_restaurants": [
+            "The Alembic",
+            "In Situ"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Michel Suas",
+        "award_restaurants": [
+            "(Perbacco and Barbacco)",
+            "B. Patisserie",
+            "In Situ",
+            "Leo's Oyster Bar"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Evan Rich",
+        "award_restaurants": [
+            "Bar Agricole",
+            "In Situ",
+            "Rich Table"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Michelle Polzine",
+        "award_restaurants": [
+            "20th Century Caf\u00c3\u00a9",
+            "In Situ",
+            "Range",
+            "20th Century Cafe"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Traci Des Jardins",
+        "award_restaurants": [
+            "",
+            "Fifth Floor",
+            "Rubicon",
+            "Zuni Cafe",
+            "Masa's",
+            "Boulevard",
+            "MC Squared",
+            "Jardini\u00e8re"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Jim Dodge",
+        "award_restaurants": [
+            ""
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Nancy Oakes",
+        "award_restaurants": [
+            "",
+            "Danko",
+            "Aqua",
+            "Anchor Brewing Co.",
+            "Rubicon",
+            "Green's",
+            "Michael Mina",
+            "Restaurant Lulu",
+            "Range",
+            "Zuni Cafe",
+            "Boulevard",
+            "Rich Table",
+            "The Slanted Door",
+            "Swan Oyster Depot"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "John Clark",
+        "award_restaurants": [
+            "",
+            "Bar Agricole",
+            "Commonwealth",
+            "Anchor & Hope, Salt House, and Town Hall",
+            "Acquerello",
+            "Foreign Cinema",
+            "Prospect",
+            "Yank Sing",
+            "Michael Mina",
+            "RN74",
+            "Greens",
+            "Bacchus Management Group",
+            "Lark Creek Restaurant Group",
+            "Boulevard",
+            "Delfina",
+            "The Slanted Door"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Daniel Patterson",
+        "award_restaurants": [
+            "",
+            "Yank Sing",
+            "Coi",
+            "Coqueta",
+            "Boulevard"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Greg Mindel",
+        "award_restaurants": [
+            "El P\u00edpila",
+            "Nopa",
+            "Neighbor Bakehouse"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Laurence Jossel",
+        "award_restaurants": [
+            "Flour + Water",
+            "A16",
+            "Restaurant Gary Danko",
+            "Frances",
+            "Nopa",
+            "RN74",
+            "Flour & Water",
+            "Boulevard"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Gary Danko",
+        "award_restaurants": [
+            "Acquerello",
+            "A16",
+            "Anchor Brewing Co.",
+            "The Dining Room-The Ritz-Carlton",
+            "Nopa",
+            "Michael Mina",
+            "Boulevard, Epic, Farallon, Jardiniere, Martini House, Nick's Cove & Cottages, and Waterbar",
+            "PlumpJack Cafe",
+            "Zuni Cafe",
+            "Stock & Bones",
+            "Gary Danko",
+            "Boulevard",
+            "Delfina",
+            "The Ritz-Carlton"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Nicolaus Balla",
+        "award_restaurants": [
+            "Bar Agricole",
+            "Bar Tartine",
+            "A16",
+            "Nopa"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Belinda Leong",
+        "award_restaurants": [
+            "The Progress",
+            "B. Patisserie",
+            "Saison"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Sara Hauman",
+        "award_restaurants": [
+            "Huxley",
+            "Mister Jiu\u00e2\u20ac\u2122s"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Anthony Mangieri",
+        "award_restaurants": [
+            "Una Pizza Napoletana"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Nick Muncy",
+        "award_restaurants": [
+            "Coi"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "James Syhabout",
+        "award_restaurants": [
+            "Nyum Bai",
+            "Commis",
+            "Camino",
+            "A Mano",
+            "Friends and Family",
+            "Adesso",
+            "Hawker Fare",
+            "Den Sake Brewery"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Ravi Kapur",
+        "award_restaurants": [
+            "Liholiho Yacht Club",
+            "La Taqueria"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Nate Appleman",
+        "award_restaurants": [
+            "One Market",
+            "SPQR",
+            "Acquerello",
+            "A16",
+            "Spruce",
+            "Pat Kuleto Restaurant Development & Management Co.",
+            "Town Hall, Salt House, and Anchor & Hope",
+            "Gary Danko",
+            "Boulevard",
+            "The Slanted Door"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Gayle Pirie",
+        "award_restaurants": [
+            "Foreign Cinema"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Daniel Humm",
+        "award_restaurants": [
+            "Boulevard",
+            "Campton Place"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Chad Robertson",
+        "award_restaurants": [
+            "Gary Danko",
+            "Boulevard",
+            "Tartine Bakery"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Elisabeth Prueitt",
+        "award_restaurants": [
+            "Boulevard",
+            "Tres Agaves",
+            "Tartine Bakery"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Luke Sung",
+        "award_restaurants": [
+            "Gourmet Magazine",
+            "Aqua",
+            "PlumpJack Cafe",
+            "Isa",
+            "Zuni Cafe",
+            "Boulevard"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Carol Field",
+        "award_restaurants": [
+            "Boulevard",
+            "Delfina"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Judy Rodgers",
+        "award_restaurants": [
+            "Fifth Floor",
+            "Anchor Brewing Co.",
+            "Rubicon",
+            "Tadich Grill",
+            "Masa's",
+            "Anchor Brewing Company",
+            "Zuni Cafe",
+            "Farallon",
+            "Monsoon",
+            "Boulevard",
+            "MC Squared",
+            "Jardini\u00e8re"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "William Werner",
+        "award_restaurants": [
+            "Craftsman and Wolves"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Emily Luchetti",
+        "award_restaurants": [
+            "Flour + Water",
+            "A16",
+            "Stars",
+            "Starbake and Stars",
+            "Farallon",
+            "Stock & Bones"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Tyler Florence",
+        "award_restaurants": [
+            "Wayfare Tavern"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Jennifer Puccio",
+        "award_restaurants": [
+            "Marlowe"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Hubert Keller",
+        "award_restaurants": [
+            "Anchor Brewing Co.",
+            "Betelnut",
+            "Rose Pistola",
+            "Zuni Cafe",
+            "Masa's",
+            "Rubicon",
+            "Fleur de Lys",
+            "Jardini\u00e8re",
+            "Elisabeth Daniel"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Lisa Lu",
+        "award_restaurants": [
+            "Jardini\u00e8re"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Roland Passot",
+        "award_restaurants": [
+            "La Folie"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Cecilia Chiang",
+        "award_restaurants": [
+            "Michael Mina"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Danny Bowien",
+        "award_restaurants": [
+            "Park Tavern",
+            "Stock & Bones",
+            "Mission Chinese Food",
+            "Michael Mina"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Fritz Maytag",
+        "award_restaurants": [
+            "Monsoon",
+            "Michael Mina"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Gerald Hirigoyen",
+        "award_restaurants": [
+            "Piperade",
+            "Michael Mina"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Thomas McNaughton",
+        "award_restaurants": [
+            "Flour + Water"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Chris Cosentino",
+        "award_restaurants": [
+            "Incanto"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Loretta Keller",
+        "award_restaurants": [
+            "Coco500",
+            "COCO500"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Phil West",
+        "award_restaurants": [
+            "Range"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Craig Stoll",
+        "award_restaurants": [
+            "Delfina"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Richard Corbo",
+        "award_restaurants": [
+            "Ducca"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Ian Begg",
+        "award_restaurants": [
+            "Cafe Majestic"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Mirko Paderno",
+        "award_restaurants": [
+            "All'Angelo"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Chuck Williams",
+        "award_restaurants": [
+            "Rubicon",
+            "Fleur de Lys"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Elizabeth Falkner",
+        "award_restaurants": [
+            "Citizen Cake"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Michael Bauer",
+        "award_restaurants": [
+            "Campton Place"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Dante Boccuzzi",
+        "award_restaurants": [
+            "Jardiniere",
+            "Silks, Mandarin Oriental Hotel",
+            "Farallon",
+            "MC Squared",
+            "Silks"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Larry Stone",
+        "award_restaurants": [
+            "Kermit Lynch Wine Merchants",
+            "Anchor Brewing Co.",
+            "Aqua",
+            "Zuni Cafe"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Julian Serrano",
+        "award_restaurants": [
+            "Rose Pistola",
+            "Anchor Brewing Co.",
+            "Masa's"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Joyce Goldstein",
+        "award_restaurants": [
+            "Monsoon",
+            "Square One",
+            "Anchor Brewing Co.",
+            "Masa's"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Adrian Hoffman",
+        "award_restaurants": [
+            "One Market Restaurant"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Reed Hearon",
+        "award_restaurants": [
+            "Rose Pistola/Black Cat",
+            "Rose Pistola"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Alice Waters",
+        "award_restaurants": [
+            "Lot 12 Public House",
+            "Kermit Lynch Wine Merchants",
+            "Chez Panisse"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Steve Sullivan",
+        "award_restaurants": [
+            "Acme Baking Co.",
+            "Kermit Lynch Wine Merchants",
+            "Lot 12 Public House"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Jeremiah Tower",
+        "award_restaurants": [
+            "Betelnut",
+            "Stars"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Harold McGee",
+        "award_restaurants": [
+            "Stars"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Elka Gilmore",
+        "award_restaurants": [
+            "Elka",
+            "Anchor Brewing Company"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Alain Rondelli",
+        "award_restaurants": [
+            "Square One",
+            "Ernie's"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Bruce Cost",
+        "award_restaurants": [
+            "Monsoon",
+            "Monsoon Restaurant"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Patricia Unterman",
+        "award_restaurants": [
+            "Monsoon"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Gerald Asher",
+        "award_restaurants": [
+            "Monsoon"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Jesse Sartain",
+        "award_restaurants": [
+            "Monsoon"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Dafne/Mats Engstrom",
+        "award_restaurants": [
+            "Monsoon",
+            "Chez Panisse",
+            "Great China"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Shirley Sarvis",
+        "award_restaurants": [
+            "Monsoon"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Lindsey Shere",
+        "award_restaurants": [
+            "Chez Panisse"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Paul Bertolli",
+        "award_restaurants": [
+            "Oliveto Restaurant & Cafe",
+            "Oliveto",
+            "Chez Panisse"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Christian Geideman",
+        "award_restaurants": [
+            "Ippuku"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Michael Pollan",
+        "award_restaurants": [
+            "Lot 12 Public House"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Kermit Lynch",
+        "award_restaurants": [
+            "Lot 12 Public House"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Damian Heath",
+        "award_restaurants": [
+            "Lot 12 Public House"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Sean Baker",
+        "award_restaurants": [
+            "Gather"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "C-Y Chia",
+        "award_restaurants": [
+            "Lion Dance Caf\u00e9"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Shane Stanbridge",
+        "award_restaurants": [
+            "Lion Dance Caf\u00e9"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Zak Stern",
+        "award_restaurants": [
+            "Daytrip"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Geoff Davis",
+        "award_restaurants": [
+            "Burdell"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Intu-on Kornnawong",
+        "award_restaurants": [
+            "Freya, Chartreuse, The Oakland, Dragonfly",
+            "Jo's Modern Thai"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Crystal Wahpepah",
+        "award_restaurants": [
+            "Wahpepah's Kitchen",
+            "Horn BBQ",
+            "The Punchdown"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Dominica Rice-Cisneros",
+        "award_restaurants": [
+            "Cosecha Caf\u00e9"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Preeti Mistry",
+        "award_restaurants": [
+            "Juhu Beach Club"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Russell Moore",
+        "award_restaurants": [
+            "Camino"
+        ],
+        "other_restaurants": []
+    }
+]

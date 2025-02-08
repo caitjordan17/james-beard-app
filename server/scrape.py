@@ -31,12 +31,16 @@ def scrape_jamesbeard():
                 award_details = result_item.find_all(
                     "p", class_="c-award-recipient__text")
 
-                if any(keyword in award_details[0].text.strip() for keyword in ["Chef", "Baker", "Hospitality", "Lifetime", "Who", "Restauranteur"]) and "Bakery" not in award_details[0].text.strip():
-                    chef = name.text.strip()
-                else:
-                    restaurant = name.text.strip()
+                award_text = award_details[0].text.strip()
 
-                    # restauranteur messing up restaurant object with multiple names, fix in google places api section, to spit out chefs json
+                if "Restauranteur" not in award_text:
+                    if any(keyword in award_text for keyword in ["Chef", "Baker", "Hospitality", "Lifetime", "Who"]) and "Bakery" not in award_text:
+                        chef = name.text.strip()
+                    else:
+                        restaurant = name.text.strip()
+
+                    # add in google places api section
+                    # lazy bear problem
 
                 if len(award_details) == 5:  # restaurant award
                     location = award_details[1].text.strip()
@@ -126,7 +130,7 @@ def save_to_json(filename="restaurant_awards.json"):
 
     with open(filename, "w") as f:
         json.dump(formatted_data, f, indent=4)
-    print(f"Data saved to {filename}")
+    print(f"Restaurant data saved to {filename}")
 
 
 if __name__ == "__main__":
