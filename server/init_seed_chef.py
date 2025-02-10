@@ -14,10 +14,11 @@ def init_seed_chef_json(filename="manual_chef_db.json"):
     chef_dict = {}
     for entry in restaurant_data:
         restaurant = entry["restaurant"]
+        location = entry["location"]
         for chef in entry["chefs"]:
             if chef not in chef_dict:
                 chef_dict[chef] = set()
-            chef_dict[chef].add(restaurant)
+            chef_dict[chef].add(f'{restaurant}, {location}')
 
     formatted_data = [
         {

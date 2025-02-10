@@ -1,1169 +1,1145 @@
 [
     {
-        "chef": "Lazy Bear",
-        "award_restaurants": [
-            "Copra"
-        ],
-        "other_restaurants": []
-    },
-    {
         "chef": "Srijith Gopinathan",
         "award_restaurants": [
-            "Copra"
+            "Copra, San Francisco, California"
         ],
-        "other_restaurants": []
+        "other_restaurants": [
+            "Ettan, Palo Alto, California",
+            "Oxford Lodi, ",
+            "Eat Mamu, ",
+            "Campton Place, "
+        ]
     },
     {
         "chef": "Kristina Costa",
         "award_restaurants": [
-            "The Morris",
-            "Loquat"
+            "Loquat, San Francisco, California",
+            "The Morris, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Gaby Maeda",
         "award_restaurants": [
-            "The Morris",
-            "State Bird Provisions"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Laura Ozyilmaz",
-        "award_restaurants": [
-            "Dalida"
+            "The Morris, San Francisco, California",
+            "State Bird Provisions, San Francisco, USA"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Sayat Ozyilmaz",
         "award_restaurants": [
-            "Dalida"
+            "Dalida, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Laura Ozyilmaz",
+        "award_restaurants": [
+            "Dalida, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Azalina Eusope",
         "award_restaurants": [
-            "Azalina's"
+            "Azalina's, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Jeong-In Hwang",
         "award_restaurants": [
-            "San Ho Won"
+            "San Ho Won, San Francisco, USA"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Weiling Lim",
         "award_restaurants": [
-            "Mandalay",
-            "Kiln",
-            "Dabao Singapore"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "House of Prime Rib",
-        "award_restaurants": [
-            "Rintaro",
-            "Birch & Rye",
-            "Californios"
+            "Dabao Singapore, San Francisco, California",
+            "Kiln, San Francisco, USA",
+            "Mandalay, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Sylvan Mishima Brackett",
         "award_restaurants": [
-            "Rintaro",
-            "Pacific Cocktail Haven"
+            "Pacific Cocktail Haven, San Francisco, California",
+            "Rintaro, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Kristina Liedags Compton",
         "award_restaurants": [
-            "Hilda and Jesse"
+            "Hilda and Jesse, San Francisco, USA"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Val M. Cant\u00fa",
         "award_restaurants": [
-            "Californios"
+            "Birch & Rye, San Francisco, California",
+            "Californios, San Francisco, USA"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Robbie Wilson",
         "award_restaurants": [
-            "Cassava",
-            "Le Fantastique"
+            "Cassava, San Francisco, California",
+            "Le Fantastique, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Vince Bugtong",
         "award_restaurants": [
-            "ABACA",
-            "Lazy Bear",
-            "Cassava"
+            "Cassava, San Francisco, California",
+            "ABACA, San Francisco, California",
+            "Lazy Bear, San Francisco, USA"
         ],
         "other_restaurants": []
     },
     {
         "chef": "David Nayfeld",
         "award_restaurants": [
-            "Mourad",
-            "Che Fico",
-            "Trick Dog"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Ryan Pollnow",
-        "award_restaurants": [
-            "",
-            "Aatxe",
-            "Acquerello",
-            "Trick Dog",
-            "Foreign Cinema",
-            "Restaurant Gary Danko",
-            "Quince",
-            "Liholiho Yacht Club"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Swan Oyster Depot",
-        "award_restaurants": [
-            "Benu",
-            "Trick Dog"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Bill Corbett",
-        "award_restaurants": [
-            "Quince",
-            "Bar Agricole",
-            "Trick Dog",
-            "Absinthe Group"
+            "Trick Dog, San Francisco, California",
+            "Mourad, San Francisco, California",
+            "Che Fico, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Dominique Crenn",
         "award_restaurants": [
-            "Benu",
-            "Atelier Crenn",
-            "Bar Agricole",
-            "Trick Dog",
-            "Saison",
-            "Nopa",
-            "Quince",
-            "Perbacco"
+            "Trick Dog, San Francisco, California",
+            "Quince, San Francisco, USA",
+            "Nopa, San Francisco, California",
+            "Perbacco, San Francisco, California",
+            "Saison, San Francisco, USA",
+            "Benu, San Francisco, USA",
+            "Bar Agricole, San Francisco, California",
+            "Atelier Crenn, San Francisco, USA"
         ],
         "other_restaurants": []
     },
     {
-        "chef": "Melissa Chou",
+        "chef": "Ryan Pollnow",
         "award_restaurants": [
-            "Bar Agricole",
-            "Mister Jiu\u00e2\u20ac\u2122s",
-            "AQ",
-            "Mourad",
-            "Aziza"
+            "Trick Dog, San Francisco, California",
+            "Aatxe, San Francisco, California",
+            "Quince, San Francisco, USA",
+            ", San Francisco, California",
+            "Foreign Cinema, San Francisco, California",
+            "Liholiho Yacht Club, San Francisco, California",
+            "Restaurant Gary Danko, San Francisco, California",
+            "Acquerello, San Francisco, USA"
         ],
         "other_restaurants": []
     },
     {
-        "chef": "Mourad Lahlou",
+        "chef": "Bill Corbett",
         "award_restaurants": [
-            "Mina Group",
-            "Mina Restaurants",
-            "Nopa",
-            "Rye on the Road",
-            "Greens",
-            "Mourad",
-            "Aziza"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Pim Techamuanvivit",
-        "award_restaurants": [
-            "Nari",
-            "Yasukochi's Sweet Stop",
-            "Kin Khao"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Jeremy Wayne",
-        "award_restaurants": [
-            "Restaurant Gary Danko",
-            "Acquerello",
-            "Lazy Bear",
-            "La Folie"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Clement Hsu",
-        "award_restaurants": [
-            "Breadbelly"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Katherine Campecino-Wong",
-        "award_restaurants": [
-            "Breadbelly"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "James Wong",
-        "award_restaurants": [
-            "Koi Palace, Dragon Beaux, Palette Tea House",
-            "Breadbelly"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Heena Patel",
-        "award_restaurants": [
-            "Besharam"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "David Yoshimura",
-        "award_restaurants": [
-            "Nisei"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Melissa K. Perello",
-        "award_restaurants": [
-            "Charles Nob Hill",
-            "Octavia",
-            "Fifth Floor",
-            "ABAC\u00c1"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Brandon Jew",
-        "award_restaurants": [
-            "Mister Jiu\u00e2\u20ac\u2122s",
-            "Mister Jiu's",
-            "Mister Jiu\u2019s"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Reem Assil",
-        "award_restaurants": [
-            "Reem's",
-            "Reem's California"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Sasion",
-        "award_restaurants": [
-            "Koi Palace, Dragon Beaux, Palette Tea House"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Juan Contreras",
-        "award_restaurants": [
-            "Atelier Crenn",
-            "Mina Restaurants (Michael Mina, Bourbon Steak, RN74, and others)",
-            "Quince",
-            "Ne Timeas Restaurant Group (Flour + Water, Central Kitchen, Trick Dog and others)",
-            "China Live"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Gabriela C\u00e1mara",
-        "award_restaurants": [
-            "Quince",
-            "Cala"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Michael Tusk",
-        "award_restaurants": [
-            "",
-            "Flour + Water",
-            "A16",
-            "Tres Agaves",
-            "Quince",
-            "Boulevard, Epic, Farallon, Jardiniere, Martini House, Nick's Cove & Cottages, and Waterbar",
-            "Boulevard"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Alexander Hong",
-        "award_restaurants": [
-            "Benu",
-            "Bar Agricole",
-            "Sorrel",
-            "Saison",
-            "Zuni Caf\u00e9",
-            "Quince",
-            "Swan Oyster Depot"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Michael Mina",
-        "award_restaurants": [
-            "Flour + Water",
-            "Aqua",
-            "Rubicon",
-            "Michael Mina",
-            "Quince",
-            "Boulevard",
-            "Elisabeth Daniel"
+            "Trick Dog, San Francisco, California",
+            "Absinthe Group, San Francisco, California",
+            "Quince, San Francisco, USA",
+            "Bar Agricole, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Corey Lee",
         "award_restaurants": [
-            "Benu",
-            "",
-            "Bar Agricole",
-            "Mina Group",
-            "Foreign Cinema",
-            "Cala",
-            "The Slanted Door",
-            "Perbacco"
+            "Trick Dog, San Francisco, California",
+            "Cala, San Francisco, California",
+            ", San Francisco, California",
+            "Foreign Cinema, San Francisco, California",
+            "Perbacco, San Francisco, California",
+            "Benu, San Francisco, USA",
+            "Bar Agricole, San Francisco, California",
+            "Mina Group, San Francisco, California",
+            "The Slanted Door, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Melissa Chou",
+        "award_restaurants": [
+            "Mister Jiu\u00e2\u20ac\u2122s, San Francisco, California",
+            "Aziza, San Francisco, California",
+            "Bar Agricole, San Francisco, California",
+            "AQ, San Francisco, California",
+            "Mourad, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Mourad Lahlou",
+        "award_restaurants": [
+            "Greens, San Francisco, California",
+            "Mina Restaurants, San Francisco, California",
+            "Nopa, San Francisco, California",
+            "Rye on the Road, San Francisco, California",
+            "Aziza, San Francisco, California",
+            "Mourad, San Francisco, California",
+            "Mina Group, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Pim Techamuanvivit",
+        "award_restaurants": [
+            "Yasukochi's Sweet Stop, San Francisco, California",
+            "Kin Khao, San Francisco, USA",
+            "Nari, San Francisco, USA"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Jeremy Wayne",
+        "award_restaurants": [
+            "Restaurant Gary Danko, San Francisco, California",
+            "Acquerello, San Francisco, USA",
+            "Lazy Bear, San Francisco, USA",
+            "La Folie, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "James Wong",
+        "award_restaurants": [
+            "Koi Palace, Dragon Beaux, Palette Tea House, San Francisco, California",
+            "Breadbelly, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Clement Hsu",
+        "award_restaurants": [
+            "Breadbelly, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Katherine Campecino-Wong",
+        "award_restaurants": [
+            "Breadbelly, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Heena Patel",
+        "award_restaurants": [
+            "Besharam, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "David Yoshimura",
+        "award_restaurants": [
+            "Nisei, San Francisco, USA"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Melissa K. Perello",
+        "award_restaurants": [
+            "Octavia, San Francisco, California",
+            "Fifth Floor, San Francisco, California",
+            "ABAC\u00c1, San Francisco, California",
+            "Charles Nob Hill, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Brandon Jew",
+        "award_restaurants": [
+            "Mister Jiu\u2019s, San Francisco, USA",
+            "Mister Jiu\u00e2\u20ac\u2122s, San Francisco, California",
+            "Mister Jiu's, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Reem Assil",
+        "award_restaurants": [
+            "Reem's California, Oakland, California",
+            "Reem's, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Juan Contreras",
+        "award_restaurants": [
+            "Quince, San Francisco, USA",
+            "Mina Restaurants (Michael Mina, Bourbon Steak, RN74, and others), San Francisco, California",
+            "China Live, San Francisco, California",
+            "Ne Timeas Restaurant Group (Flour + Water, Central Kitchen, Trick Dog and others), San Francisco, California",
+            "Atelier Crenn, San Francisco, USA"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Alexander Hong",
+        "award_restaurants": [
+            "Quince, San Francisco, USA",
+            "Zuni Caf\u00e9, San Francisco, California",
+            "Saison, San Francisco, USA",
+            "Swan Oyster Depot, San Francisco, California",
+            "Benu, San Francisco, USA",
+            "Bar Agricole, San Francisco, California",
+            "Sorrel, San Francisco, USA"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Michael Tusk",
+        "award_restaurants": [
+            "Quince, San Francisco, USA",
+            ", San Francisco, California",
+            "Boulevard, Epic, Farallon, Jardiniere, Martini House, Nick's Cove & Cottages, and Waterbar, San Francisco, California",
+            "Flour + Water, San Francisco, California",
+            "A16, San Francisco, USA",
+            "Tres Agaves, San Francisco, California",
+            "Boulevard, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Michael Mina",
+        "award_restaurants": [
+            "Quince, San Francisco, USA",
+            "Michael Mina, ",
+            "Flour + Water, San Francisco, California",
+            "Rubicon, San Francisco, California",
+            "Elisabeth Daniel, San Francisco, California",
+            "Aqua, San Francisco, California",
+            "Boulevard, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Gabriela C\u00e1mara",
+        "award_restaurants": [
+            "Cala, San Francisco, California",
+            "Quince, San Francisco, USA"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Kim Alter",
         "award_restaurants": [
-            "Nightbird"
+            "Nightbird, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Joshua Skenes",
         "award_restaurants": [
-            "",
-            "Angler",
-            "Saison"
+            ", San Francisco, California",
+            "Saison, San Francisco, USA",
+            "Angler, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Brandon Rodgers",
         "award_restaurants": [
-            "",
-            "Verjus",
-            "In Situ",
-            "In Situ at SFMOMA",
-            "Beit Rima",
-            "Angler",
-            "Swan Oyster Depot"
+            "In Situ at SFMOMA, San Francisco, California",
+            "Angler, San Francisco, California",
+            ", San Francisco, California",
+            "Verjus, San Francisco, California",
+            "Beit Rima, San Francisco, California",
+            "Swan Oyster Depot, San Francisco, California",
+            "In Situ, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Charles Phan",
         "award_restaurants": [
-            "Benu",
-            "Bar Agricole",
-            "Mina Group",
-            "Beretta",
-            "Boulevard",
-            "The Slanted Door"
+            "Beretta, San Francisco, California",
+            "The Slanted Door, San Francisco, California",
+            "Benu, San Francisco, USA",
+            "Bar Agricole, San Francisco, California",
+            "Mina Group, San Francisco, California",
+            "Boulevard, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Stuart Brioza",
         "award_restaurants": [
-            "State Bird Provisions"
+            "State Bird Provisions, San Francisco, USA"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Nicole Krasinski",
         "award_restaurants": [
-            "State Bird Provisions"
+            "State Bird Provisions, San Francisco, USA"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Matthew Accarrino",
         "award_restaurants": [
-            "SPQR",
-            "A16",
-            "Foreign Cinema",
-            "Saison",
-            "Greens Restaurant",
-            "State Bird Provisions",
-            "The Abbot's Cellar",
-            "The Slanted Door"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Rachel Aronow",
-        "award_restaurants": [
-            "The Alembic",
-            "In Situ"
+            "Greens Restaurant, San Francisco, California",
+            "Foreign Cinema, San Francisco, California",
+            "SPQR, San Francisco, California",
+            "The Abbot's Cellar, San Francisco, California",
+            "Saison, San Francisco, USA",
+            "State Bird Provisions, San Francisco, USA",
+            "A16, San Francisco, USA",
+            "The Slanted Door, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Michel Suas",
         "award_restaurants": [
-            "(Perbacco and Barbacco)",
-            "B. Patisserie",
-            "In Situ",
-            "Leo's Oyster Bar"
+            "Leo's Oyster Bar, San Francisco, California",
+            "In Situ, San Francisco, California",
+            "(Perbacco and Barbacco), San Francisco, California",
+            "B. Patisserie, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
-        "chef": "Evan Rich",
+        "chef": "Rachel Aronow",
         "award_restaurants": [
-            "Bar Agricole",
-            "In Situ",
-            "Rich Table"
+            "In Situ, San Francisco, California",
+            "The Alembic, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Michelle Polzine",
         "award_restaurants": [
-            "20th Century Caf\u00c3\u00a9",
-            "In Situ",
-            "Range",
-            "20th Century Cafe"
+            "Range, San Francisco, California",
+            "20th Century Caf\u00c3\u00a9, San Francisco, California",
+            "In Situ, San Francisco, California",
+            "20th Century Cafe, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
-        "chef": "Traci Des Jardins",
+        "chef": "Evan Rich",
         "award_restaurants": [
-            "",
-            "Fifth Floor",
-            "Rubicon",
-            "Zuni Cafe",
-            "Masa's",
-            "Boulevard",
-            "MC Squared",
-            "Jardini\u00e8re"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Jim Dodge",
-        "award_restaurants": [
-            ""
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Nancy Oakes",
-        "award_restaurants": [
-            "",
-            "Danko",
-            "Aqua",
-            "Anchor Brewing Co.",
-            "Rubicon",
-            "Green's",
-            "Michael Mina",
-            "Restaurant Lulu",
-            "Range",
-            "Zuni Cafe",
-            "Boulevard",
-            "Rich Table",
-            "The Slanted Door",
-            "Swan Oyster Depot"
+            "Rich Table, San Francisco, California",
+            "In Situ, San Francisco, California",
+            "Bar Agricole, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "John Clark",
         "award_restaurants": [
-            "",
-            "Bar Agricole",
-            "Commonwealth",
-            "Anchor & Hope, Salt House, and Town Hall",
-            "Acquerello",
-            "Foreign Cinema",
-            "Prospect",
-            "Yank Sing",
-            "Michael Mina",
-            "RN74",
-            "Greens",
-            "Bacchus Management Group",
-            "Lark Creek Restaurant Group",
-            "Boulevard",
-            "Delfina",
-            "The Slanted Door"
+            "Prospect, San Francisco, California",
+            "Greens, San Francisco, California",
+            "RN74, San Francisco, California",
+            "Yank Sing, San Francisco, USA",
+            "The Slanted Door, San Francisco, California",
+            ", San Francisco, California",
+            "Michael Mina, ",
+            "Foreign Cinema, San Francisco, California",
+            "Delfina, San Francisco, California",
+            "Lark Creek Restaurant Group, San Francisco, California",
+            "Anchor & Hope, Salt House, and Town Hall, San Francisco, California",
+            "Acquerello, San Francisco, USA",
+            "Bar Agricole, San Francisco, California",
+            "Bacchus Management Group, San Francisco, California",
+            "Commonwealth, San Francisco, California",
+            "Boulevard, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Daniel Patterson",
         "award_restaurants": [
-            "",
-            "Yank Sing",
-            "Coi",
-            "Coqueta",
-            "Boulevard"
+            "Yank Sing, San Francisco, USA",
+            ", San Francisco, California",
+            "Boulevard, San Francisco, California",
+            "Coqueta, San Francisco, California",
+            "Coi, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Traci Des Jardins",
+        "award_restaurants": [
+            "Fifth Floor, San Francisco, California",
+            ", San Francisco, California",
+            "Zuni Cafe, San Francisco, California",
+            "Rubicon, San Francisco, California",
+            "Masa's, San Francisco, California",
+            "MC Squared, San Francisco, California",
+            "Jardini\u00e8re, San Francisco, California",
+            "Boulevard, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Nancy Oakes",
+        "award_restaurants": [
+            "Anchor Brewing Co., San Francisco, California",
+            "Range, San Francisco, California",
+            "Restaurant Lulu, San Francisco, California",
+            "The Slanted Door, San Francisco, California",
+            ", San Francisco, California",
+            "Michael Mina, ",
+            "Green's, San Francisco, California",
+            "Zuni Cafe, San Francisco, California",
+            "Rich Table, San Francisco, California",
+            "Swan Oyster Depot, San Francisco, California",
+            "Rubicon, San Francisco, California",
+            "Danko, San Francisco, California",
+            "Aqua, San Francisco, California",
+            "Boulevard, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Jim Dodge",
+        "award_restaurants": [
+            ", San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Greg Mindel",
         "award_restaurants": [
-            "El P\u00edpila",
-            "Nopa",
-            "Neighbor Bakehouse"
+            "Nopa, San Francisco, California",
+            "Neighbor Bakehouse, San Francisco, California",
+            "El P\u00edpila, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Laurence Jossel",
         "award_restaurants": [
-            "Flour + Water",
-            "A16",
-            "Restaurant Gary Danko",
-            "Frances",
-            "Nopa",
-            "RN74",
-            "Flour & Water",
-            "Boulevard"
+            "RN74, San Francisco, California",
+            "Nopa, San Francisco, California",
+            "Flour & Water, San Francisco, California",
+            "Frances, San Francisco, California",
+            "Restaurant Gary Danko, San Francisco, California",
+            "Flour + Water, San Francisco, California",
+            "A16, San Francisco, USA",
+            "Boulevard, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Gary Danko",
         "award_restaurants": [
-            "Acquerello",
-            "A16",
-            "Anchor Brewing Co.",
-            "The Dining Room-The Ritz-Carlton",
-            "Nopa",
-            "Michael Mina",
-            "Boulevard, Epic, Farallon, Jardiniere, Martini House, Nick's Cove & Cottages, and Waterbar",
-            "PlumpJack Cafe",
-            "Zuni Cafe",
-            "Stock & Bones",
-            "Gary Danko",
-            "Boulevard",
-            "Delfina",
-            "The Ritz-Carlton"
+            "Anchor Brewing Co., San Francisco, California",
+            "The Ritz-Carlton, San Francisco, California",
+            "Boulevard, Epic, Farallon, Jardiniere, Martini House, Nick's Cove & Cottages, and Waterbar, San Francisco, California",
+            "Nopa, San Francisco, California",
+            "Michael Mina, ",
+            "Delfina, San Francisco, California",
+            "Zuni Cafe, San Francisco, California",
+            "PlumpJack Cafe, San Francisco, California",
+            "Gary Danko, San Francisco, California",
+            "The Dining Room-The Ritz-Carlton, San Francisco, California",
+            "Acquerello, San Francisco, USA",
+            "A16, San Francisco, USA",
+            "Stock & Bones, San Francisco, California",
+            "Boulevard, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Nicolaus Balla",
         "award_restaurants": [
-            "Bar Agricole",
-            "Bar Tartine",
-            "A16",
-            "Nopa"
+            "Nopa, San Francisco, California",
+            "A16, San Francisco, USA",
+            "Bar Tartine, San Francisco, California",
+            "Bar Agricole, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Belinda Leong",
         "award_restaurants": [
-            "The Progress",
-            "B. Patisserie",
-            "Saison"
+            "The Progress, San Francisco, USA",
+            "Saison, San Francisco, USA",
+            "B. Patisserie, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Sara Hauman",
         "award_restaurants": [
-            "Huxley",
-            "Mister Jiu\u00e2\u20ac\u2122s"
+            "Mister Jiu\u00e2\u20ac\u2122s, San Francisco, California",
+            "Huxley, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Anthony Mangieri",
         "award_restaurants": [
-            "Una Pizza Napoletana"
+            "Una Pizza Napoletana, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Nick Muncy",
         "award_restaurants": [
-            "Coi"
+            "Coi, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "James Syhabout",
         "award_restaurants": [
-            "Nyum Bai",
-            "Commis",
-            "Camino",
-            "A Mano",
-            "Friends and Family",
-            "Adesso",
-            "Hawker Fare",
-            "Den Sake Brewery"
+            "Hawker Fare, San Francisco, California",
+            "Nyum Bai, Oakland, California",
+            "Commis, Oakland, USA",
+            "A Mano, Oakland, California",
+            "Camino, Oakland, California",
+            "Adesso, Oakland, California",
+            "Friends and Family, Oakland, California",
+            "Den Sake Brewery, Oakland, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Ravi Kapur",
         "award_restaurants": [
-            "Liholiho Yacht Club",
-            "La Taqueria"
+            "Liholiho Yacht Club, San Francisco, California",
+            "La Taqueria, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Nate Appleman",
         "award_restaurants": [
-            "One Market",
-            "SPQR",
-            "Acquerello",
-            "A16",
-            "Spruce",
-            "Pat Kuleto Restaurant Development & Management Co.",
-            "Town Hall, Salt House, and Anchor & Hope",
-            "Gary Danko",
-            "Boulevard",
-            "The Slanted Door"
+            "Town Hall, Salt House, and Anchor & Hope, San Francisco, California",
+            "The Slanted Door, San Francisco, California",
+            "Spruce, San Francisco, California",
+            "SPQR, San Francisco, California",
+            "Gary Danko, San Francisco, California",
+            "One Market, San Francisco, California",
+            "Acquerello, San Francisco, USA",
+            "Pat Kuleto Restaurant Development & Management Co., San Francisco, California",
+            "A16, San Francisco, USA",
+            "Boulevard, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Gayle Pirie",
         "award_restaurants": [
-            "Foreign Cinema"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Daniel Humm",
-        "award_restaurants": [
-            "Boulevard",
-            "Campton Place"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Chad Robertson",
-        "award_restaurants": [
-            "Gary Danko",
-            "Boulevard",
-            "Tartine Bakery"
+            "Foreign Cinema, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Elisabeth Prueitt",
         "award_restaurants": [
-            "Boulevard",
-            "Tres Agaves",
-            "Tartine Bakery"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Luke Sung",
-        "award_restaurants": [
-            "Gourmet Magazine",
-            "Aqua",
-            "PlumpJack Cafe",
-            "Isa",
-            "Zuni Cafe",
-            "Boulevard"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Carol Field",
-        "award_restaurants": [
-            "Boulevard",
-            "Delfina"
+            "Tartine Bakery, San Francisco, California",
+            "Tres Agaves, San Francisco, California",
+            "Boulevard, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Judy Rodgers",
         "award_restaurants": [
-            "Fifth Floor",
-            "Anchor Brewing Co.",
-            "Rubicon",
-            "Tadich Grill",
-            "Masa's",
-            "Anchor Brewing Company",
-            "Zuni Cafe",
-            "Farallon",
-            "Monsoon",
-            "Boulevard",
-            "MC Squared",
-            "Jardini\u00e8re"
+            "Anchor Brewing Co., San Francisco, California",
+            "Monsoon, San Francisco, California",
+            "Fifth Floor, San Francisco, California",
+            "Anchor Brewing Company, San Francisco, California",
+            "Zuni Cafe, San Francisco, California",
+            "Farallon, San Francisco, California",
+            "Rubicon, San Francisco, California",
+            "Masa's, San Francisco, California",
+            "MC Squared, San Francisco, California",
+            "Jardini\u00e8re, San Francisco, California",
+            "Boulevard, San Francisco, California",
+            "Tadich Grill, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Daniel Humm",
+        "award_restaurants": [
+            "Campton Place, San Francisco, California",
+            "Boulevard, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Chad Robertson",
+        "award_restaurants": [
+            "Gary Danko, San Francisco, California",
+            "Tartine Bakery, San Francisco, California",
+            "Boulevard, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Luke Sung",
+        "award_restaurants": [
+            "Zuni Cafe, San Francisco, California",
+            "PlumpJack Cafe, San Francisco, California",
+            "Isa, San Francisco, California",
+            "Gourmet Magazine, San Francisco, California",
+            "Aqua, San Francisco, California",
+            "Boulevard, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Carol Field",
+        "award_restaurants": [
+            "Delfina, San Francisco, California",
+            "Boulevard, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "William Werner",
         "award_restaurants": [
-            "Craftsman and Wolves"
+            "Craftsman and Wolves, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Emily Luchetti",
         "award_restaurants": [
-            "Flour + Water",
-            "A16",
-            "Stars",
-            "Starbake and Stars",
-            "Farallon",
-            "Stock & Bones"
+            "Flour + Water, San Francisco, California",
+            "Farallon, San Francisco, California",
+            "Starbake and Stars, San Francisco, California",
+            "A16, San Francisco, USA",
+            "Stock & Bones, San Francisco, California",
+            "Stars, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Tyler Florence",
         "award_restaurants": [
-            "Wayfare Tavern"
+            "Wayfare Tavern, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Jennifer Puccio",
         "award_restaurants": [
-            "Marlowe"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Hubert Keller",
-        "award_restaurants": [
-            "Anchor Brewing Co.",
-            "Betelnut",
-            "Rose Pistola",
-            "Zuni Cafe",
-            "Masa's",
-            "Rubicon",
-            "Fleur de Lys",
-            "Jardini\u00e8re",
-            "Elisabeth Daniel"
+            "Marlowe, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Lisa Lu",
         "award_restaurants": [
-            "Jardini\u00e8re"
+            "Jardini\u00e8re, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Hubert Keller",
+        "award_restaurants": [
+            "Anchor Brewing Co., San Francisco, California",
+            "Fleur de Lys, San Francisco, California",
+            "Zuni Cafe, San Francisco, California",
+            "Betelnut, San Francisco, California",
+            "Rubicon, San Francisco, California",
+            "Elisabeth Daniel, San Francisco, California",
+            "Masa's, San Francisco, California",
+            "Jardini\u00e8re, San Francisco, California",
+            "Rose Pistola, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Roland Passot",
         "award_restaurants": [
-            "La Folie"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Cecilia Chiang",
-        "award_restaurants": [
-            "Michael Mina"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Danny Bowien",
-        "award_restaurants": [
-            "Park Tavern",
-            "Stock & Bones",
-            "Mission Chinese Food",
-            "Michael Mina"
+            "La Folie, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Fritz Maytag",
         "award_restaurants": [
-            "Monsoon",
-            "Michael Mina"
+            "Monsoon, San Francisco, California",
+            "Michael Mina, "
         ],
         "other_restaurants": []
     },
     {
         "chef": "Gerald Hirigoyen",
         "award_restaurants": [
-            "Piperade",
-            "Michael Mina"
+            "Michael Mina, ",
+            "Piperade, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Cecilia Chiang",
+        "award_restaurants": [
+            "Michael Mina, "
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Danny Bowien",
+        "award_restaurants": [
+            "Michael Mina, ",
+            "Park Tavern, San Francisco, California",
+            "Stock & Bones, San Francisco, California",
+            "Mission Chinese Food, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Thomas McNaughton",
         "award_restaurants": [
-            "Flour + Water"
+            "Flour + Water, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Chris Cosentino",
         "award_restaurants": [
-            "Incanto"
+            "Incanto, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Loretta Keller",
         "award_restaurants": [
-            "Coco500",
-            "COCO500"
+            "Coco500, San Francisco, California",
+            "COCO500, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Phil West",
         "award_restaurants": [
-            "Range"
+            "Range, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Craig Stoll",
         "award_restaurants": [
-            "Delfina"
+            "Delfina, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Richard Corbo",
         "award_restaurants": [
-            "Ducca"
+            "Ducca, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Ian Begg",
         "award_restaurants": [
-            "Cafe Majestic"
+            "Cafe Majestic, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Mirko Paderno",
         "award_restaurants": [
-            "All'Angelo"
+            "All'Angelo, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Chuck Williams",
         "award_restaurants": [
-            "Rubicon",
-            "Fleur de Lys"
+            "Fleur de Lys, San Francisco, California",
+            "Rubicon, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Elizabeth Falkner",
         "award_restaurants": [
-            "Citizen Cake"
+            "Citizen Cake, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Michael Bauer",
         "award_restaurants": [
-            "Campton Place"
+            "Campton Place, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Dante Boccuzzi",
         "award_restaurants": [
-            "Jardiniere",
-            "Silks, Mandarin Oriental Hotel",
-            "Farallon",
-            "MC Squared",
-            "Silks"
+            "Silks, Mandarin Oriental Hotel, San Francisco, California",
+            "Farallon, San Francisco, California",
+            "MC Squared, San Francisco, California",
+            "Silks, San Francisco, California",
+            "Jardiniere, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Larry Stone",
         "award_restaurants": [
-            "Kermit Lynch Wine Merchants",
-            "Anchor Brewing Co.",
-            "Aqua",
-            "Zuni Cafe"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Julian Serrano",
-        "award_restaurants": [
-            "Rose Pistola",
-            "Anchor Brewing Co.",
-            "Masa's"
+            "Anchor Brewing Co., San Francisco, California",
+            "Kermit Lynch Wine Merchants, Berkeley, California",
+            "Aqua, San Francisco, California",
+            "Zuni Cafe, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Joyce Goldstein",
         "award_restaurants": [
-            "Monsoon",
-            "Square One",
-            "Anchor Brewing Co.",
-            "Masa's"
+            "Anchor Brewing Co., San Francisco, California",
+            "Square One, San Francisco, California",
+            "Monsoon, San Francisco, California",
+            "Masa's, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Julian Serrano",
+        "award_restaurants": [
+            "Anchor Brewing Co., San Francisco, California",
+            "Rose Pistola, San Francisco, California",
+            "Masa's, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Adrian Hoffman",
         "award_restaurants": [
-            "One Market Restaurant"
+            "One Market Restaurant, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Reed Hearon",
         "award_restaurants": [
-            "Rose Pistola/Black Cat",
-            "Rose Pistola"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Alice Waters",
-        "award_restaurants": [
-            "Lot 12 Public House",
-            "Kermit Lynch Wine Merchants",
-            "Chez Panisse"
+            "Rose Pistola, San Francisco, California",
+            "Rose Pistola/Black Cat, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Steve Sullivan",
         "award_restaurants": [
-            "Acme Baking Co.",
-            "Kermit Lynch Wine Merchants",
-            "Lot 12 Public House"
+            "Lot 12 Public House, ",
+            "Kermit Lynch Wine Merchants, Berkeley, California",
+            "Acme Baking Co., Berkeley, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Alice Waters",
+        "award_restaurants": [
+            "Chez Panisse, Berkeley, California",
+            "Lot 12 Public House, ",
+            "Kermit Lynch Wine Merchants, Berkeley, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Jeremiah Tower",
         "award_restaurants": [
-            "Betelnut",
-            "Stars"
+            "Betelnut, San Francisco, California",
+            "Stars, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Harold McGee",
         "award_restaurants": [
-            "Stars"
+            "Stars, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Elka Gilmore",
         "award_restaurants": [
-            "Elka",
-            "Anchor Brewing Company"
+            "Elka, San Francisco, California",
+            "Anchor Brewing Company, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Alain Rondelli",
         "award_restaurants": [
-            "Square One",
-            "Ernie's"
+            "Square One, San Francisco, California",
+            "Ernie's, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Bruce Cost",
         "award_restaurants": [
-            "Monsoon",
-            "Monsoon Restaurant"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Patricia Unterman",
-        "award_restaurants": [
-            "Monsoon"
+            "Monsoon, San Francisco, California",
+            "Monsoon Restaurant, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Gerald Asher",
         "award_restaurants": [
-            "Monsoon"
+            "Monsoon, San Francisco, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Patricia Unterman",
+        "award_restaurants": [
+            "Monsoon, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Jesse Sartain",
         "award_restaurants": [
-            "Monsoon"
+            "Monsoon, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Dafne/Mats Engstrom",
         "award_restaurants": [
-            "Monsoon",
-            "Chez Panisse",
-            "Great China"
+            "Monsoon, San Francisco, California",
+            "Chez Panisse, Berkeley, California",
+            "Great China, Berkeley, USA"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Shirley Sarvis",
         "award_restaurants": [
-            "Monsoon"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Lindsey Shere",
-        "award_restaurants": [
-            "Chez Panisse"
+            "Monsoon, San Francisco, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Paul Bertolli",
         "award_restaurants": [
-            "Oliveto Restaurant & Cafe",
-            "Oliveto",
-            "Chez Panisse"
+            "Oliveto, Oakland, California",
+            "Oliveto Restaurant & Cafe, Oakland, California",
+            "Chez Panisse, Berkeley, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Lindsey Shere",
+        "award_restaurants": [
+            "Chez Panisse, Berkeley, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Christian Geideman",
         "award_restaurants": [
-            "Ippuku"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "Michael Pollan",
-        "award_restaurants": [
-            "Lot 12 Public House"
+            "Ippuku, Berkeley, USA"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Kermit Lynch",
         "award_restaurants": [
-            "Lot 12 Public House"
+            "Lot 12 Public House, "
         ],
         "other_restaurants": []
     },
     {
         "chef": "Damian Heath",
         "award_restaurants": [
-            "Lot 12 Public House"
+            "Lot 12 Public House, "
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "Michael Pollan",
+        "award_restaurants": [
+            "Lot 12 Public House, "
         ],
         "other_restaurants": []
     },
     {
         "chef": "Sean Baker",
         "award_restaurants": [
-            "Gather"
-        ],
-        "other_restaurants": []
-    },
-    {
-        "chef": "C-Y Chia",
-        "award_restaurants": [
-            "Lion Dance Caf\u00e9"
+            "Gather, Berkeley, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Shane Stanbridge",
         "award_restaurants": [
-            "Lion Dance Caf\u00e9"
+            "Lion Dance Caf\u00e9, Oakland, California"
+        ],
+        "other_restaurants": []
+    },
+    {
+        "chef": "C-Y Chia",
+        "award_restaurants": [
+            "Lion Dance Caf\u00e9, Oakland, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Zak Stern",
         "award_restaurants": [
-            "Daytrip"
+            "Daytrip, Oakland, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Geoff Davis",
         "award_restaurants": [
-            "Burdell"
+            "Burdell, Oakland, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Intu-on Kornnawong",
         "award_restaurants": [
-            "Freya, Chartreuse, The Oakland, Dragonfly",
-            "Jo's Modern Thai"
+            "Freya, Chartreuse, The Oakland, Dragonfly, Detroit, Michigan",
+            "Jo's Modern Thai, Oakland, USA"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Crystal Wahpepah",
         "award_restaurants": [
-            "Wahpepah's Kitchen",
-            "Horn BBQ",
-            "The Punchdown"
+            "Wahpepah's Kitchen, Oakland, California",
+            "The Punchdown, Oakland, California",
+            "Horn BBQ, Oakland, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Dominica Rice-Cisneros",
         "award_restaurants": [
-            "Cosecha Caf\u00e9"
+            "Cosecha Caf\u00e9, Oakland, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Preeti Mistry",
         "award_restaurants": [
-            "Juhu Beach Club"
+            "Juhu Beach Club, Oakland, California"
         ],
         "other_restaurants": []
     },
     {
         "chef": "Russell Moore",
         "award_restaurants": [
-            "Camino"
+            "Camino, Oakland, California"
         ],
         "other_restaurants": []
     }
