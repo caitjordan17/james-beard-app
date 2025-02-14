@@ -6,8 +6,16 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Srijith Gopinathan, Best Chef California, Semifinalist, 2024",
-            "James Beard - Outstanding Hospitality, Semifinalist, 2024"
+            "James Beard - Srijith Gopinathan, Best Chef California, Semifinalist, 2024"
+        ]
+    },
+    {
+        "restaurant": "Lazy Bear",
+        "chefs": [],
+        "location": "San Francisco, USA",
+        "awards": [
+            "James Beard - Outstanding Hospitality, Semifinalist, 2024",
+            "2 Michelin Star"
         ]
     },
     {
@@ -17,19 +25,8 @@
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Outstanding Wine & Other Beverages Program, Nominee, 2024",
             "James Beard - Kristina Costa, Outstanding Pastry Chef, Semifinalist, 2024"
-        ]
-    },
-    {
-        "restaurant": "The Morris",
-        "chefs": [
-            "Gaby Maeda",
-            "Kristina Costa"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Wine Program, Semifinalist, 2020",
-            "James Beard - Outstanding Wine & Other Beverages Program, Nominee, 2024"
         ]
     },
     {
@@ -61,8 +58,8 @@
         ],
         "location": "San Francisco, USA",
         "awards": [
-            "James Beard - Jeong-In Hwang, Best Chef California, Semifinalist, 2024",
-            "1 Michelin Star"
+            "1 Michelin Star",
+            "James Beard - Jeong-In Hwang, Best Chef California, Semifinalist, 2024"
         ]
     },
     {
@@ -72,28 +69,9 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Weiling Lim, Emerging Chef of the Year, Semifinalist, 2024"
-        ]
-    },
-    {
-        "restaurant": "Kiln",
-        "chefs": [
-            "Weiling Lim"
-        ],
-        "location": "San Francisco, USA",
-        "awards": [
+            "James Beard - America's Classics, Winner, 2024",
             "James Beard - Best New Restaurant, Semifinalist, 2024",
-            "1 Michelin Star"
-        ]
-    },
-    {
-        "restaurant": "Mandalay",
-        "chefs": [
-            "Weiling Lim"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - America's Classics, Winner, 2024"
+            "James Beard - Weiling Lim, Emerging Chef of the Year, Semifinalist, 2024"
         ]
     },
     {
@@ -103,19 +81,9 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Sylvan Mishima Brackett, Outstanding Chef, Semifinalist, 2024",
+            "James Beard - Outstanding Bar, Nominee, 2024",
             "James Beard - Sylvan Mishima Brackett, Best Chefs, Semifinalist, 2022",
-            "James Beard - Outstanding Hospitality, Nominee, 2022"
-        ]
-    },
-    {
-        "restaurant": "Pacific Cocktail Haven",
-        "chefs": [
-            "Sylvan Mishima Brackett"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Bar, Nominee, 2024"
+            "James Beard - Sylvan Mishima Brackett, Outstanding Chef, Semifinalist, 2024"
         ]
     },
     {
@@ -125,8 +93,8 @@
         ],
         "location": "San Francisco, USA",
         "awards": [
-            "James Beard - Kristina Liedags Compton, Best Chef California, Semifinalist, 2024",
-            "1 Michelin Star"
+            "1 Michelin Star",
+            "James Beard - Kristina Liedags Compton, Best Chef California, Semifinalist, 2024"
         ]
     },
     {
@@ -136,22 +104,21 @@
         ],
         "location": "San Francisco, USA",
         "awards": [
-            "James Beard - Outstanding Hospitality, Semifinalist, 2023",
             "James Beard - Val M. Cant\u00fa, Best Chefs, Semifinalist, 2018",
-            "2 Michelin Star",
             "James Beard - Val M. Cant\u00fa, Best Chefs, Semifinalist, 2022",
             "James Beard - Val M. Cant\u00fa, Best Chefs, Semifinalist, 2020",
+            "2 Michelin Star",
             "James Beard - Val M. Cant\u00fa, Best Chef California, Semifinalist, 2023"
         ]
     },
     {
-        "restaurant": "Birch & Rye",
-        "chefs": [
-            "Val M. Cant\u00fa"
-        ],
+        "restaurant": "House of Prime Rib",
+        "chefs": [],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Best New Restaurant, Semifinalist, 2023"
+            "James Beard - Outstanding Hospitality, Semifinalist, 2023",
+            "James Beard - Best New Restaurant, Semifinalist, 2023",
+            "James Beard - Outstanding Hospitality, Nominee, 2022"
         ]
     },
     {
@@ -172,8 +139,9 @@
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Robbie Wilson, Outstanding Restaurateur, Semifinalist, 2023",
             "James Beard - Vince Bugtong, Outstanding Restaurateur, Semifinalist, 2023",
-            "James Beard - Robbie Wilson, Outstanding Restaurateur, Semifinalist, 2023"
+            "James Beard - Outstanding Wine & Other Beverages Program, Nominee, 2023"
         ]
     },
     {
@@ -183,41 +151,9 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - David Nayfeld, Outstanding Chef, Semifinalist, 2023"
-        ]
-    },
-    {
-        "restaurant": "Trick Dog",
-        "chefs": [
-            "Dominique Crenn",
-            "Ryan Pollnow",
-            "David Nayfeld",
-            "Bill Corbett",
-            "Corey Lee"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Bar Program, Nominee, 2020",
-            "James Beard - Outstanding Bar Program, Nominee, 2015",
-            "James Beard - Outstanding Bar Program, Semifinalist, 2016",
             "James Beard - Outstanding Bar Program, Semifinalist, 2023",
-            "James Beard - Outstanding Bar Program, Nominee, 2018"
-        ]
-    },
-    {
-        "restaurant": "Mourad",
-        "chefs": [
-            "David Nayfeld",
-            "Melissa Chou",
-            "Mourad Lahlou"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
             "James Beard - Outstanding Restaurant, Semifinalist, 2023",
-            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2016",
-            "James Beard - Melissa Chou, Outstanding Pastry Chef, Semifinalist, 2016",
-            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2017",
-            "James Beard - Mourad Lahlou, Best Chefs, Nominee, 2020"
+            "James Beard - David Nayfeld, Outstanding Chef, Semifinalist, 2023"
         ]
     },
     {
@@ -228,19 +164,10 @@
         "location": "San Francisco, USA",
         "awards": [
             "James Beard - Pim Techamuanvivit, Best Chefs, Semifinalist, 2019",
-            "James Beard - Pim Techamuanvivit, Best Chef California, Semifinalist, 2023",
+            "James Beard - Outstanding Bakery, Semifinalist, 2023",
+            "1 Michelin Star",
             "James Beard - Pim Techamuanvivit, Best Chefs, Nominee, 2020",
-            "1 Michelin Star"
-        ]
-    },
-    {
-        "restaurant": "Yasukochi's Sweet Stop",
-        "chefs": [
-            "Pim Techamuanvivit"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Bakery, Semifinalist, 2023"
+            "James Beard - Pim Techamuanvivit, Best Chef California, Semifinalist, 2023"
         ]
     },
     {
@@ -251,19 +178,6 @@
         "location": "San Francisco, California",
         "awards": [
             "James Beard - Vince Bugtong, Outstanding Pastry Chef or Baker, Nominee, 2023"
-        ]
-    },
-    {
-        "restaurant": "Lazy Bear",
-        "chefs": [
-            "Vince Bugtong",
-            "Jeremy Wayne"
-        ],
-        "location": "San Francisco, USA",
-        "awards": [
-            "James Beard - Outstanding Wine & Other Beverages Program, Nominee, 2023",
-            "2 Michelin Star",
-            "James Beard - Best New Restaurant, Semifinalist, 2015"
         ]
     },
     {
@@ -280,15 +194,15 @@
     {
         "restaurant": "Breadbelly",
         "chefs": [
-            "James Wong",
             "Clement Hsu",
-            "Katherine Campecino-Wong"
+            "Katherine Campecino-Wong",
+            "James Wong"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - James Wong, Outstanding Baker, Semifinalist, 2022",
+            "James Beard - Katherine Campecino-Wong, Outstanding Baker, Semifinalist, 2022",
             "James Beard - Clement Hsu, Outstanding Baker, Semifinalist, 2022",
-            "James Beard - Katherine Campecino-Wong, Outstanding Baker, Semifinalist, 2022"
+            "James Beard - James Wong, Outstanding Baker, Semifinalist, 2022"
         ]
     },
     {
@@ -308,8 +222,8 @@
         ],
         "location": "San Francisco, USA",
         "awards": [
-            "James Beard - David Yoshimura, Emerging Chef of the Year, Semifinalist, 2022",
-            "1 Michelin Star"
+            "1 Michelin Star",
+            "James Beard - David Yoshimura, Emerging Chef of the Year, Semifinalist, 2022"
         ]
     },
     {
@@ -319,17 +233,8 @@
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Melissa K. Perello, Best Chefs, Semifinalist, 2022",
             "James Beard - Melissa K. Perello, Best Chefs, Semifinalist, 2016",
-            "James Beard - Melissa K. Perello, Best Chefs, Semifinalist, 2022"
-        ]
-    },
-    {
-        "restaurant": "ABAC\u00c1",
-        "chefs": [
-            "Melissa K. Perello"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
             "James Beard - Best New Restaurant, Semifinalist, 2022"
         ]
     },
@@ -360,8 +265,15 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Outstanding Hospitality, Nominee, 2020",
             "James Beard - James Wong, Outstanding Restaurateur, Semifinalist, 2022"
+        ]
+    },
+    {
+        "restaurant": "Sasion",
+        "chefs": [],
+        "location": "San Francisco, California",
+        "awards": [
+            "James Beard - Outstanding Hospitality, Nominee, 2020"
         ]
     },
     {
@@ -372,48 +284,23 @@
         ],
         "location": "San Francisco, USA",
         "awards": [
-            "James Beard - Juan Contreras, Outstanding Pastry Chef, Nominee, 2019",
-            "James Beard - Juan Contreras, Outstanding Pastry Chef, Semifinalist, 2016",
-            "James Beard - Juan Contreras, Outstanding Pastry Chef, Nominee, 2020",
             "James Beard - Dominique Crenn, Best Chefs, Winner, 2018",
-            "James Beard - Dominique Crenn, Best Chefs, Semifinalist, 2015",
-            "3 Michelin Star, Michelin Green Star",
-            "James Beard - Dominique Crenn, Best Chefs, Semifinalist, 2013",
+            "James Beard - Outstanding Bar Program, Nominee, 2018",
+            "James Beard - Outstanding Wine Program, Nominee, 2017",
             "James Beard - Dominique Crenn, Best Chefs, Nominee, 2016",
-            "James Beard - Dominique Crenn, Best Chefs, Nominee, 2017"
-        ]
-    },
-    {
-        "restaurant": "Quince",
-        "chefs": [
-            "Dominique Crenn",
-            "Alexander Hong",
-            "Michael Tusk",
-            "Ryan Pollnow",
-            "Michael Mina",
-            "Gabriela C\u00e1mara",
-            "Juan Contreras",
-            "Bill Corbett"
-        ],
-        "location": "San Francisco, USA",
-        "awards": [
-            "James Beard - Michael Tusk, Best Chefs, Nominee, 2010",
-            "James Beard - Outstanding Restaurant, Nominee, 2018",
-            "James Beard - Michael Tusk, Best Chefs, Winner, 2011",
-            "James Beard - Michael Tusk, Best Chefs, Nominee, 2008",
-            "James Beard - Outstanding Service, Nominee, 2016",
-            "James Beard - Michael Tusk, Outstanding Chef, Semifinalist, 2015",
+            "James Beard - Outstanding Service, Semifinalist, 2015",
+            "James Beard - Dominique Crenn, Best Chefs, Semifinalist, 2013",
+            "James Beard - Juan Contreras, Outstanding Pastry Chef, Semifinalist, 2016",
             "James Beard - Outstanding Restaurant, Nominee, 2017",
-            "James Beard - Outstanding Service, Nominee, 2013",
-            "James Beard - Michael Tusk, Best Chefs, Nominee, 2007",
+            "James Beard - Juan Contreras, Outstanding Pastry Chef, Nominee, 2019",
+            "James Beard - Outstanding Service, Semifinalist, 2017",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2017",
             "3 Michelin Star, Michelin Green Star",
-            "James Beard - Outstanding Service, Nominee, 2015",
-            "James Beard - Michael Tusk, Outstanding Chef, Semifinalist, 2013",
-            "James Beard - Michael Tusk, Outstanding Chef, Nominee, 2016",
+            "James Beard - Dominique Crenn, Best Chefs, Semifinalist, 2015",
             "James Beard - Outstanding Restaurant, Nominee, 2020",
-            "James Beard - Michael Tusk, Best Chefs, Nominee, 2006",
-            "James Beard - Michael Tusk, Outstanding Chef, Semifinalist, 2014",
-            "James Beard - Outstanding Restaurant, Nominee, 2019"
+            "James Beard - Dominique Crenn, Best Chefs, Nominee, 2017",
+            "James Beard - Juan Contreras, Outstanding Pastry Chef, Nominee, 2020",
+            "James Beard - Outstanding Bar Program, Nominee, 2017"
         ]
     },
     {
@@ -429,14 +316,31 @@
     {
         "restaurant": "Cala",
         "chefs": [
-            "Gabriela C\u00e1mara",
-            "Corey Lee"
+            "Corey Lee",
+            "Gabriela C\u00e1mara"
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Corey Lee, Outstanding Restaurateur, Semifinalist, 2017",
+            "James Beard - Outstanding Restaurant, Nominee, 2019",
             "James Beard - Gabriela C\u00e1mara, Best Chefs, Semifinalist, 2019",
-            "James Beard - Gabriela C\u00e1mara, Best Chefs, Semifinalist, 2020",
-            "James Beard - Corey Lee, Outstanding Restaurateur, Semifinalist, 2017"
+            "James Beard - Gabriela C\u00e1mara, Best Chefs, Semifinalist, 2020"
+        ]
+    },
+    {
+        "restaurant": "Mourad",
+        "chefs": [
+            "Mourad Lahlou",
+            "Melissa Chou"
+        ],
+        "location": "San Francisco, California",
+        "awards": [
+            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2017",
+            "James Beard - Outstanding Bar Program, Nominee, 2016",
+            "James Beard - Mourad Lahlou, Best Chefs, Nominee, 2020",
+            "James Beard - Melissa Chou, Outstanding Pastry Chef, Semifinalist, 2016",
+            "James Beard - Outstanding Wine Program, Semifinalist, 2016",
+            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2016"
         ]
     },
     {
@@ -446,20 +350,18 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Kim Alter, Best Chefs, Semifinalist, 2018",
-            "James Beard - Kim Alter, Best Chefs, Semifinalist, 2020"
+            "James Beard - Kim Alter, Best Chefs, Semifinalist, 2020",
+            "James Beard - Kim Alter, Best Chefs, Semifinalist, 2018"
         ]
     },
     {
         "restaurant": "Angler",
         "chefs": [
-            "Joshua Skenes",
-            "Brandon Rodgers"
+            "Joshua Skenes"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Joshua Skenes, Best Chefs, Nominee, 2020",
-            "James Beard - Best New Restaurant, Nominee, 2019"
+            "James Beard - Joshua Skenes, Best Chefs, Nominee, 2020"
         ]
     },
     {
@@ -469,36 +371,43 @@
         ],
         "location": "San Francisco, USA",
         "awards": [
-            "James Beard - Brandon Jew, Best Chefs, Nominee, 2020",
-            "1 Michelin Star"
+            "1 Michelin Star",
+            "James Beard - Brandon Jew, Best Chefs, Nominee, 2020"
         ]
     },
     {
         "restaurant": "Benu",
         "chefs": [
-            "Dominique Crenn",
-            "Charles Phan",
-            "Alexander Hong",
             "Corey Lee"
         ],
         "location": "San Francisco, USA",
         "awards": [
-            "James Beard - Corey Lee, Best Chefs, Winner, 2017",
-            "James Beard - Outstanding Hospitality, Nominee, 2020",
-            "James Beard - Outstanding Wine Program, Nominee, 2018",
-            "James Beard - Corey Lee, Best Chefs, Nominee, 2016",
-            "James Beard - Corey Lee, Best Chefs, Nominee, 2014",
-            "James Beard - Corey Lee, Outstanding Chef, Nominee, 2019",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2012",
             "James Beard - Outstanding Wine Program, Semifinalist, 2016",
-            "3 Michelin Star",
-            "James Beard - Best New Restaurant, Nominee, 2011",
-            "James Beard - Corey Lee, Best Chefs, Nominee, 2015",
-            "James Beard - Outstanding Wine Program, Nominee, 2017",
-            "James Beard - Corey Lee, Best Chefs, Semifinalist, 2012",
             "James Beard - Corey Lee, Outstanding Chef, Nominee, 2020",
+            "3 Michelin Star",
+            "James Beard - Corey Lee, Best Chefs, Nominee, 2016",
+            "James Beard - Outstanding Wine Program, Semifinalist, 2012",
+            "James Beard - Outstanding Bar Program, Nominee, 2012",
+            "James Beard - Corey Lee, Best Chefs, Nominee, 2014",
+            "James Beard - Outstanding Restaurant, Winner, 2014",
+            "James Beard - Corey Lee, Outstanding Chef, Nominee, 2019",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2014",
+            "James Beard - Corey Lee, Best Chefs, Winner, 2017",
             "James Beard - Corey Lee, Best Chefs, Nominee, 2013",
             "James Beard - Corey Lee, Best Chefs, Semifinalist, 2011",
+            "James Beard - Corey Lee, Best Chefs, Semifinalist, 2012",
+            "James Beard - Corey Lee, Best Chefs, Nominee, 2015",
             "James Beard - Outstanding Wine Program, Winner, 2019"
+        ]
+    },
+    {
+        "restaurant": "Swan Oyster Depot",
+        "chefs": [],
+        "location": "San Francisco, California",
+        "awards": [
+            "James Beard - Outstanding Hospitality, Nominee, 2020",
+            "James Beard - Outstanding Bar Program, Nominee, 2020"
         ]
     },
     {
@@ -506,85 +415,46 @@
         "chefs": [
             "Stuart Brioza",
             "Gaby Maeda",
-            "Nicole Krasinski",
-            "Matthew Accarrino"
+            "Nicole Krasinski"
         ],
         "location": "San Francisco, USA",
         "awards": [
-            "James Beard - Best New Restaurant, Winner, 2013",
-            "James Beard - Gaby Maeda, Rising Star Chef of the Year, Nominee, 2020",
+            "James Beard - Stuart Brioza, Best Chefs, Winner, 2015",
             "James Beard - Nicole Krasinski, Best Chefs, Winner, 2015",
             "1 Michelin Star",
-            "James Beard - Stuart Brioza, Best Chefs, Winner, 2015"
+            "James Beard - Outstanding Wine Program, Semifinalist, 2020",
+            "James Beard - Gaby Maeda, Rising Star Chef of the Year, Nominee, 2020"
         ]
     },
     {
         "restaurant": "In Situ",
         "chefs": [
-            "Michel Suas",
-            "Rachel Aronow",
             "Brandon Rodgers",
+            "Rachel Aronow",
             "Michelle Polzine",
             "Evan Rich"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Evan Rich, Outstanding Restaurant Design (76 Seats and Over), Winner, 2018",
-            "James Beard - Best New Restaurant, Nominee, 2017",
+            "James Beard - Best New Restaurant, Nominee, 2020",
             "James Beard - Michelle Polzine, Outstanding Restaurant Design (76 Seats and Over), Winner, 2018",
-            "James Beard - Rachel Aronow, Outstanding Restaurant Design (76 Seats and Over), Winner, 2018",
-            "James Beard - Brandon Rodgers, Best Chefs, Semifinalist, 2020"
-        ]
-    },
-    {
-        "restaurant": "Beit Rima",
-        "chefs": [
-            "Brandon Rodgers"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Semifinalist, 2020"
-        ]
-    },
-    {
-        "restaurant": "Verjus",
-        "chefs": [
-            "Brandon Rodgers"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Nominee, 2020"
+            "James Beard - Outstanding Bar Program, Nominee, 2018",
+            "James Beard - Best New Restaurant, Semifinalist, 2020",
+            "James Beard - Brandon Rodgers, Best Chefs, Semifinalist, 2020",
+            "James Beard - Evan Rich, Outstanding Restaurant Design (76 Seats and Over), Winner, 2018",
+            "James Beard - Rachel Aronow, Outstanding Restaurant Design (76 Seats and Over), Winner, 2018"
         ]
     },
     {
         "restaurant": "",
         "chefs": [
-            "Joshua Skenes",
-            "Michael Tusk",
-            "John Clark",
-            "Daniel Patterson",
-            "Ryan Pollnow",
-            "Traci Des Jardins",
             "Brandon Rodgers",
-            "Nancy Oakes",
-            "Jim Dodge",
-            "Corey Lee"
+            "Jim Dodge"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Outstanding Restaurant, Nominee, 2011",
-            "James Beard - Outstanding Service, Nominee, 2014",
-            "James Beard - Best New Restaurant, Semifinalist, 2014",
-            "James Beard - Best New Restaurant, Nominee, 2011",
-            "James Beard - Outstanding Bar Program, Semifinalist, 2014",
-            "James Beard - Outstanding Restaurant, Nominee, 2007",
-            "James Beard - Outstanding Restaurant, Semifinalist, 2014",
             "James Beard - Brandon Rodgers, Outstanding Restaurateur, Semifinalist, 2019",
-            "James Beard - Best New Restaurant, Semifinalist, 2016",
-            "James Beard - Outstanding Wine Service, Nominee, 2011",
-            "James Beard - Jim Dodge, Outstanding Pastry Chef, Nominee, 1992",
-            "James Beard - Outstanding Restaurant, Nominee, 2009",
-            "James Beard - Outstanding Bar Program, Nominee, 2014"
+            "James Beard - Jim Dodge, Outstanding Pastry Chef, Nominee, 1992"
         ]
     },
     {
@@ -594,28 +464,8 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Greg Mindel, Outstanding Baker, Semifinalist, 2019"
-        ]
-    },
-    {
-        "restaurant": "Nopa",
-        "chefs": [
-            "Dominique Crenn",
-            "Laurence Jossel",
-            "Gary Danko",
-            "Greg Mindel",
-            "Mourad Lahlou",
-            "Nicolaus Balla"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Restaurant, Semifinalist, 2019",
-            "James Beard - Outstanding Restaurant, Semifinalist, 2017",
-            "James Beard - Outstanding Wine Program, Semifinalist, 2016",
-            "James Beard - Outstanding Wine Program, Semifinalist, 2013",
-            "James Beard - Outstanding Service, Semifinalist, 2012",
-            "James Beard - Laurence Jossel, Best Chefs, Semifinalist, 2011",
-            "James Beard - Laurence Jossel, Best Chefs, Semifinalist, 2010"
+            "James Beard - Greg Mindel, Outstanding Baker, Semifinalist, 2019",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2019"
         ]
     },
     {
@@ -655,21 +505,9 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Brandon Rodgers, Best Chefs, Semifinalist, 2019"
-        ]
-    },
-    {
-        "restaurant": "Swan Oyster Depot",
-        "chefs": [
-            "Nancy Oakes",
-            "Alexander Hong",
-            "Brandon Rodgers"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - America's Classics, Winner, 2000",
             "James Beard - Outstanding Service, Nominee, 2019",
-            "James Beard - Outstanding Restaurant, Semifinalist, 2018"
+            "James Beard - Brandon Rodgers, Best Chefs, Semifinalist, 2019",
+            "James Beard - Best New Restaurant, Nominee, 2019"
         ]
     },
     {
@@ -680,67 +518,14 @@
         "location": "San Francisco, USA",
         "awards": [
             "James Beard - Alexander Hong, Rising Star Chef of the Year, Nominee, 2019",
-            "1 Michelin Star"
-        ]
-    },
-    {
-        "restaurant": "Saison",
-        "chefs": [
-            "Dominique Crenn",
-            "Belinda Leong",
-            "Joshua Skenes",
-            "Matthew Accarrino",
-            "Alexander Hong"
-        ],
-        "location": "San Francisco, USA",
-        "awards": [
+            "James Beard - Outstanding Service, Nominee, 2018",
+            "James Beard - Outstanding Restaurant, Nominee, 2018",
             "James Beard - Outstanding Service, Nominee, 2019",
-            "James Beard - Joshua Skenes, Best Chefs, Semifinalist, 2014",
-            "James Beard - Outstanding Service, Semifinalist, 2017",
-            "James Beard - Joshua Skenes, Best Chefs, Semifinalist, 2018",
-            "James Beard - Outstanding Service, Semifinalist, 2016",
-            "2 Michelin Star",
-            "James Beard - Outstanding Service, Semifinalist, 2015",
-            "James Beard - Joshua Skenes, Best Chefs, Semifinalist, 2015",
-            "James Beard - Joshua Skenes, Best Chefs, Semifinalist, 2017",
-            "James Beard - Joshua Skenes, Best Chefs, Semifinalist, 2016",
-            "James Beard - Outstanding Service, Nominee, 2018"
-        ]
-    },
-    {
-        "restaurant": "Bar Agricole",
-        "chefs": [
-            "Dominique Crenn",
-            "Charles Phan",
-            "John Clark",
-            "Evan Rich",
-            "Bill Corbett",
-            "Alexander Hong",
-            "Melissa Chou",
-            "Nicolaus Balla",
-            "Corey Lee"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
             "James Beard - Outstanding Bar Program, Winner, 2019",
-            "James Beard - Best New Restaurant, Semifinalist, 2011",
-            "James Beard - Outstanding Bar Program, Nominee, 2012",
-            "James Beard - Outstanding Bar Program, Nominee, 2016",
-            "James Beard - Outstanding Bar Program, Nominee, 2015",
-            "James Beard - Charles Phan, Outstanding Restaurant Design, Winner, 2011",
-            "James Beard - Outstanding Bar Program, Nominee, 2017",
-            "James Beard - Outstanding Bar Program, Nominee, 2013",
-            "James Beard - Outstanding Bar Program, Nominee, 2018"
-        ]
-    },
-    {
-        "restaurant": "Zuni Caf\u00e9",
-        "chefs": [
-            "Alexander Hong"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Service, Winner, 2018"
+            "James Beard - Outstanding Service, Winner, 2018",
+            "1 Michelin Star",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2018",
+            "James Beard - Outstanding Wine Program, Nominee, 2018"
         ]
     },
     {
@@ -756,17 +541,20 @@
     {
         "restaurant": "B. Patisserie",
         "chefs": [
-            "Belinda Leong",
-            "Michel Suas"
+            "Michel Suas",
+            "Belinda Leong"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Belinda Leong, Outstanding Baker, Nominee, 2015",
+            "James Beard - Best New Restaurant, Nominee, 2017",
             "James Beard - Michel Suas, Outstanding Baker, Nominee, 2017",
-            "James Beard - Michel Suas, Outstanding Baker, Nominee, 2016",
-            "James Beard - Belinda Leong, Outstanding Baker, Nominee, 2016",
+            "James Beard - Best New Restaurant, Nominee, 2015",
             "James Beard - Michel Suas, Outstanding Baker, Nominee, 2015",
-            "James Beard - Belinda Leong, Outstanding Baker, Winner, 2018"
+            "James Beard - Belinda Leong, Outstanding Baker, Nominee, 2015",
+            "James Beard - Belinda Leong, Outstanding Baker, Nominee, 2016",
+            "James Beard - Belinda Leong, Outstanding Baker, Winner, 2018",
+            "James Beard - Michel Suas, Outstanding Baker, Nominee, 2016",
+            "James Beard - Outstanding Service, Semifinalist, 2016"
         ]
     },
     {
@@ -789,19 +577,34 @@
         "location": "San Francisco, California",
         "awards": [
             "James Beard - Melissa Chou, Outstanding Pastry Chef, Semifinalist, 2017",
-            "James Beard - Brandon Jew, Best Chefs, Semifinalist, 2018",
-            "James Beard - Sara Hauman, Rising Star Chef of the Year, Semifinalist, 2017"
+            "James Beard - Sara Hauman, Rising Star Chef of the Year, Semifinalist, 2017",
+            "James Beard - Brandon Jew, Best Chefs, Semifinalist, 2018"
+        ]
+    },
+    {
+        "restaurant": "Saison",
+        "chefs": [
+            "Joshua Skenes"
+        ],
+        "location": "San Francisco, USA",
+        "awards": [
+            "James Beard - Joshua Skenes, Best Chefs, Semifinalist, 2014",
+            "James Beard - Joshua Skenes, Best Chefs, Semifinalist, 2017",
+            "James Beard - Joshua Skenes, Best Chefs, Semifinalist, 2016",
+            "James Beard - Joshua Skenes, Best Chefs, Semifinalist, 2015",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2014",
+            "2 Michelin Star",
+            "James Beard - Joshua Skenes, Best Chefs, Semifinalist, 2018",
+            "James Beard - Outstanding Bar Program, Semifinalist, 2014"
         ]
     },
     {
         "restaurant": "Rich Table",
         "chefs": [
-            "Evan Rich",
-            "Nancy Oakes"
+            "Evan Rich"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Best New Restaurant, Nominee, 2013",
             "James Beard - Evan Rich, Best Chefs, Semifinalist, 2018"
         ]
     },
@@ -828,18 +631,23 @@
     {
         "restaurant": "Coi",
         "chefs": [
-            "Daniel Patterson",
-            "Nick Muncy"
+            "Nick Muncy",
+            "Daniel Patterson"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Daniel Patterson, Best Chefs, Nominee, 2011",
             "James Beard - Daniel Patterson, Best Chefs, Nominee, 2012",
-            "James Beard - Daniel Patterson, Best Chefs, Nominee, 2013",
-            "James Beard - Daniel Patterson, Best Chefs, Winner, 2014",
-            "James Beard - Daniel Patterson, Best Chefs, Semifinalist, 2010",
             "James Beard - Daniel Patterson, Best Chefs, Nominee, 2009",
-            "James Beard - Nick Muncy, Outstanding Pastry Chef, Semifinalist, 2017"
+            "James Beard - Outstanding Restaurant, Nominee, 2009",
+            "James Beard - Daniel Patterson, Best Chefs, Nominee, 2011",
+            "James Beard - Daniel Patterson, Best Chefs, Semifinalist, 2010",
+            "James Beard - Daniel Patterson, Best Chefs, Nominee, 2013",
+            "James Beard - Best New Restaurant, Nominee, 2014",
+            "James Beard - Daniel Patterson, Best Chefs, Winner, 2014",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2014",
+            "James Beard - Nick Muncy, Outstanding Pastry Chef, Semifinalist, 2017",
+            "James Beard - Best New Restaurant, Semifinalist, 2014",
+            "James Beard - America's Classics, Winner, 2009"
         ]
     },
     {
@@ -855,23 +663,12 @@
     {
         "restaurant": "Liholiho Yacht Club",
         "chefs": [
-            "Ravi Kapur",
-            "Ryan Pollnow"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Ravi Kapur, Best Chefs, Semifinalist, 2017",
-            "James Beard - Best New Restaurant, Nominee, 2016"
-        ]
-    },
-    {
-        "restaurant": "La Taqueria",
-        "chefs": [
             "Ravi Kapur"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - America's Classics, Winner, 2017"
+            "James Beard - America's Classics, Winner, 2017",
+            "James Beard - Ravi Kapur, Best Chefs, Semifinalist, 2017"
         ]
     },
     {
@@ -891,105 +688,37 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Ryan Pollnow, Rising Star Chef of the Year, Semifinalist, 2016"
-        ]
-    },
-    {
-        "restaurant": "Acquerello",
-        "chefs": [
-            "John Clark",
-            "Jeremy Wayne",
-            "Ryan Pollnow",
-            "Gary Danko",
-            "Nate Appleman"
-        ],
-        "location": "San Francisco, USA",
-        "awards": [
-            "James Beard - Outstanding Wine Service, Semifinalist, 2009",
-            "James Beard - Outstanding Wine Service, Semifinalist, 2010",
-            "James Beard - Outstanding Service, Semifinalist, 2010",
+            "James Beard - Outstanding Bar Program, Semifinalist, 2016",
+            "James Beard - Best New Restaurant, Semifinalist, 2016",
             "James Beard - Outstanding Restaurant, Semifinalist, 2016",
-            "James Beard - Outstanding Wine Service, Nominee, 2008",
-            "2 Michelin Star",
-            "James Beard - Outstanding Restaurant, Semifinalist, 2015"
-        ]
-    },
-    {
-        "restaurant": "Foreign Cinema",
-        "chefs": [
-            "Gayle Pirie",
-            "John Clark",
-            "Ryan Pollnow",
-            "Matthew Accarrino",
-            "Corey Lee"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Restaurant, Semifinalist, 2013",
-            "James Beard - Outstanding Restaurant, Semifinalist, 2012",
-            "James Beard - John Clark, Best Chefs, Semifinalist, 2009",
-            "James Beard - Gayle Pirie, Best Chefs, Semifinalist, 2009",
-            "James Beard - Gayle Pirie, Best Chefs, Semifinalist, 2011",
-            "James Beard - Outstanding Restaurant, Semifinalist, 2016",
-            "James Beard - John Clark, Best Chefs, Semifinalist, 2011"
-        ]
-    },
-    {
-        "restaurant": "Restaurant Gary Danko",
-        "chefs": [
-            "Jeremy Wayne",
-            "Laurence Jossel",
-            "Ryan Pollnow"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Wine Service, Nominee, 2010",
-            "James Beard - Outstanding Restaurant, Semifinalist, 2015",
-            "James Beard - Outstanding Restaurant, Semifinalist, 2016"
+            "James Beard - Ryan Pollnow, Rising Star Chef of the Year, Semifinalist, 2016",
+            "James Beard - Best New Restaurant, Nominee, 2016",
+            "James Beard - Outstanding Service, Nominee, 2016"
         ]
     },
     {
         "restaurant": "Boulevard",
         "chefs": [
-            "Charles Phan",
-            "Laurence Jossel",
-            "Elisabeth Prueitt",
-            "Judy Rodgers",
-            "John Clark",
-            "Michael Tusk",
-            "Daniel Patterson",
-            "Michael Mina",
-            "Traci Des Jardins",
-            "Daniel Humm",
-            "Chad Robertson",
-            "Luke Sung",
-            "Gary Danko",
-            "Nancy Oakes",
-            "Carol Field",
-            "Nate Appleman"
+            "Cecilia Chiang",
+            "Nancy Oakes"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Nancy Oakes, Best Chefs, Nominee, 1995",
-            "James Beard - Outstanding Restaurant, Nominee, 2011",
-            "James Beard - Outstanding Restaurant, Nominee, 2010",
-            "James Beard - Outstanding Restaurant, Nominee, 2005",
             "James Beard - Nancy Oakes, Best Chefs, Winner, 2001",
-            "James Beard - Outstanding Restaurant, Nominee, 2007",
-            "James Beard - Outstanding Restaurant, Nominee, 2006",
-            "James Beard - Nancy Oakes, Best Chefs, Nominee, 1999",
-            "James Beard - Outstanding Restaurant, Winner, 2012",
-            "James Beard - Nancy Oakes, Best Chefs, Nominee, 1998",
-            "James Beard - Outstanding Service, Nominee, 2004",
-            "James Beard - Nancy Oakes, Outstanding Chef, Semifinalist, 2015",
+            "James Beard - Outstanding Service, Nominee, 2014",
             "James Beard - Nancy Oakes, Best Chefs, Nominee, 2000",
-            "James Beard - Outstanding Service, Nominee, 2001",
+            "James Beard - Nancy Oakes, Outstanding Chef, Semifinalist, 2014",
+            "James Beard - America's Classics, Winner, 2000",
+            "James Beard - Nancy Oakes, Best Chefs, Nominee, 1999",
+            "James Beard - Nancy Oakes, Best Chefs, Nominee, 1998",
             "James Beard - Nancy Oakes, Best Chefs, Nominee, 1997",
-            "James Beard - Outstanding Restaurant, Nominee, 2008",
+            "James Beard - Nancy Oakes, Best Chefs, Nominee, 1995",
+            "James Beard - Lifetime Achievement, Winner, 2013",
             "James Beard - Nancy Oakes, Outstanding Chef, Semifinalist, 2016",
-            "James Beard - Outstanding Service, Nominee, 2002",
-            "James Beard - Outstanding Restaurant, Nominee, 2009",
-            "James Beard - Nancy Oakes, Outstanding Chef, Semifinalist, 2014"
+            "James Beard - Nancy Oakes, Outstanding Chef, Semifinalist, 2015",
+            "James Beard - Outstanding Service, Semifinalist, 2013",
+            "James Beard - Best New Restaurant, Nominee, 2013",
+            "James Beard - Outstanding Bar Program, Semifinalist, 2014"
         ]
     },
     {
@@ -999,9 +728,34 @@
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - William Werner, Outstanding Baker, Nominee, 2015",
             "James Beard - William Werner, Outstanding Pastry Chef, Semifinalist, 2013",
-            "James Beard - William Werner, Outstanding Baker, Nominee, 2016",
-            "James Beard - William Werner, Outstanding Baker, Nominee, 2015"
+            "James Beard - William Werner, Outstanding Baker, Nominee, 2016"
+        ]
+    },
+    {
+        "restaurant": "Quince",
+        "chefs": [
+            "Michael Tusk"
+        ],
+        "location": "San Francisco, USA",
+        "awards": [
+            "James Beard - Outstanding Wine Program, Winner, 2015",
+            "James Beard - Outstanding Service, Nominee, 2014",
+            "James Beard - Michael Tusk, Outstanding Chef, Semifinalist, 2013",
+            "James Beard - Outstanding Bar Program, Nominee, 2014",
+            "James Beard - Michael Tusk, Outstanding Chef, Semifinalist, 2014",
+            "James Beard - Michael Tusk, Best Chefs, Nominee, 2007",
+            "James Beard - Michael Tusk, Best Chefs, Nominee, 2006",
+            "James Beard - Outstanding Restaurant, Nominee, 2011",
+            "James Beard - Michael Tusk, Best Chefs, Nominee, 2010",
+            "James Beard - Michael Tusk, Outstanding Chef, Nominee, 2016",
+            "James Beard - Michael Tusk, Best Chefs, Nominee, 2008",
+            "James Beard - Michael Tusk, Outstanding Chef, Semifinalist, 2015",
+            "James Beard - Michael Tusk, Best Chefs, Winner, 2011",
+            "3 Michelin Star, Michelin Green Star",
+            "James Beard - Best New Restaurant, Nominee, 2010",
+            "James Beard - Outstanding Bar Program, Semifinalist, 2014"
         ]
     },
     {
@@ -1017,28 +771,21 @@
     {
         "restaurant": "SPQR",
         "chefs": [
-            "Nate Appleman",
             "Matthew Accarrino"
         ],
         "location": "San Francisco, California",
         "awards": [
             "James Beard - Matthew Accarrino, Best Chefs, Nominee, 2016",
-            "James Beard - Best New Restaurant, Semifinalist, 2008",
-            "James Beard - Matthew Accarrino, Best Chefs, Nominee, 2015",
-            "James Beard - Matthew Accarrino, Best Chefs, Semifinalist, 2014",
+            "James Beard - Outstanding Service, Semifinalist, 2015",
+            "James Beard - Outstanding Bar Program, Semifinalist, 2013",
+            "James Beard - Matthew Accarrino, Best Chefs, Semifinalist, 2013",
             "James Beard - Matthew Accarrino, Best Chefs, Semifinalist, 2012",
-            "James Beard - Matthew Accarrino, Best Chefs, Semifinalist, 2013"
-        ]
-    },
-    {
-        "restaurant": "The Progress",
-        "chefs": [
-            "Belinda Leong"
-        ],
-        "location": "San Francisco, USA",
-        "awards": [
-            "James Beard - Best New Restaurant, Nominee, 2015",
-            "1 Michelin Star"
+            "James Beard - Best New Restaurant, Winner, 2013",
+            "James Beard - Outstanding Restaurant, Nominee, 2013",
+            "James Beard - Matthew Accarrino, Best Chefs, Nominee, 2015",
+            "James Beard - Outstanding Wine Program, Nominee, 2014",
+            "James Beard - Matthew Accarrino, Best Chefs, Semifinalist, 2014",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2013"
         ]
     },
     {
@@ -1058,32 +805,9 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Bill Corbett, Outstanding Pastry Chef, Semifinalist, 2015"
-        ]
-    },
-    {
-        "restaurant": "A16",
-        "chefs": [
-            "Laurence Jossel",
-            "Michael Tusk",
-            "Emily Luchetti",
-            "Gary Danko",
-            "Matthew Accarrino",
-            "Nate Appleman",
-            "Nicolaus Balla"
-        ],
-        "location": "San Francisco, USA",
-        "awards": [
-            "James Beard - Outstanding Wine Program, Nominee, 2012",
-            "James Beard - Nate Appleman, Rising Star Chef of the Year, Winner, 2009",
-            "James Beard - Outstanding Wine Service, Nominee, 2010",
-            "James Beard - Nate Appleman, Rising Star Chef of the Year, Nominee, 2008",
-            "James Beard - Outstanding Wine Program, Winner, 2015",
-            "James Beard - Outstanding Wine Program, Nominee, 2013",
-            "James Beard - Outstanding Wine Service, Nominee, 2011",
-            "James Beard - Outstanding Wine Program, Nominee, 2014",
-            "Bib Gourmand",
-            "James Beard - Nate Appleman, Rising Star Chef of the Year, Nominee, 2007"
+            "James Beard - Bill Corbett, Outstanding Pastry Chef, Semifinalist, 2015",
+            "James Beard - Outstanding Service, Nominee, 2015",
+            "James Beard - Outstanding Bar Program, Nominee, 2015"
         ]
     },
     {
@@ -1093,8 +817,8 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Tyler Florence, Best Chefs, Semifinalist, 2015",
-            "James Beard - Tyler Florence, Best Chefs, Semifinalist, 2014"
+            "James Beard - Tyler Florence, Best Chefs, Semifinalist, 2014",
+            "James Beard - Tyler Florence, Best Chefs, Semifinalist, 2015"
         ]
     },
     {
@@ -1110,55 +834,58 @@
     {
         "restaurant": "Jardini\u00e8re",
         "chefs": [
-            "Lisa Lu",
-            "Judy Rodgers",
             "Hubert Keller",
+            "Lisa Lu",
             "Traci Des Jardins"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Traci Des Jardins, Best Chefs, Nominee, 2003",
-            "James Beard - Traci Des Jardins, Best Chefs, Nominee, 2005",
+            "James Beard - Traci Des Jardins, Best Chefs, Nominee, 2000",
+            "James Beard - Traci Des Jardins, Best Chefs, Winner, 2007",
+            "James Beard - Traci Des Jardins, Best Chefs, Nominee, 2006",
             "James Beard - Traci Des Jardins, Best Chefs, Nominee, 2004",
+            "James Beard - Outstanding Wine Service, Nominee, 2004",
+            "James Beard - Outstanding Restaurant, Winner, 2003",
+            "James Beard - Traci Des Jardins, Best Chefs, Nominee, 2003",
+            "James Beard - Lisa Lu, Outstanding Pastry Chef, Semifinalist, 2012",
+            "James Beard - Outstanding Restaurant, Nominee, 1999",
             "James Beard - Traci Des Jardins, Best Chefs, Nominee, 1999",
             "James Beard - Traci Des Jardins, Outstanding Chef, Semifinalist, 2015",
-            "James Beard - Traci Des Jardins, Best Chefs, Winner, 2007",
-            "James Beard - Traci Des Jardins, Best Chefs, Nominee, 2000",
-            "James Beard - Best New Restaurant, Nominee, 1998",
-            "James Beard - Traci Des Jardins, Best Chefs, Nominee, 2006",
-            "James Beard - Lisa Lu, Outstanding Pastry Chef, Semifinalist, 2012"
+            "James Beard - Traci Des Jardins, Best Chefs, Nominee, 2005",
+            "James Beard - Outstanding Restaurant, Nominee, 2007"
         ]
     },
     {
         "restaurant": "Aziza",
         "chefs": [
-            "Melissa Chou",
-            "Mourad Lahlou"
+            "Mourad Lahlou",
+            "Melissa Chou"
         ],
         "location": "San Francisco, California",
         "awards": [
             "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2014",
-            "James Beard - Melissa Chou, Outstanding Pastry Chef, Semifinalist, 2011",
-            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2013",
+            "James Beard - Melissa Chou, Outstanding Pastry Chef, Nominee, 2012",
             "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2012",
-            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2015",
-            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2011",
-            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2010",
             "James Beard - Melissa Chou, Outstanding Pastry Chef, Nominee, 2013",
-            "James Beard - Melissa Chou, Outstanding Pastry Chef, Nominee, 2012"
+            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2011",
+            "James Beard - Best New Restaurant, Nominee, 2012",
+            "James Beard - Melissa Chou, Outstanding Pastry Chef, Semifinalist, 2011",
+            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2010",
+            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2013",
+            "James Beard - Mourad Lahlou, Best Chefs, Semifinalist, 2015"
         ]
     },
     {
         "restaurant": "Mina Group",
         "chefs": [
-            "Charles Phan",
             "Mourad Lahlou",
+            "Charles Phan",
             "Corey Lee"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Corey Lee, Outstanding Wine & Spirits Professional, Nominee, 2011",
-            "James Beard - Mourad Lahlou, Outstanding Wine, Spirits, or Beer Professional, Winner, 2015"
+            "James Beard - Mourad Lahlou, Outstanding Wine, Spirits, or Beer Professional, Winner, 2015",
+            "James Beard - Corey Lee, Outstanding Wine & Spirits Professional, Nominee, 2011"
         ]
     },
     {
@@ -1178,127 +905,44 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Mourad Lahlou, Outstanding Wine, Spirits, or Beer Professional, Semifinalist, 2015"
-        ]
-    },
-    {
-        "restaurant": "Greens",
-        "chefs": [
-            "Mourad Lahlou",
-            "John Clark"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Restaurant, Semifinalist, 2009",
+            "James Beard - Mourad Lahlou, Outstanding Wine, Spirits, or Beer Professional, Semifinalist, 2015",
             "James Beard - Outstanding Restaurant, Semifinalist, 2015"
         ]
     },
     {
         "restaurant": "La Folie",
         "chefs": [
-            "Roland Passot",
-            "Jeremy Wayne"
+            "Jeremy Wayne",
+            "Roland Passot"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Roland Passot, Best Chefs, Nominee, 2007",
-            "James Beard - Jeremy Wayne, Rising Star Chef of the Year, Semifinalist, 2015",
             "James Beard - Roland Passot, Best Chefs, Semifinalist, 2008",
-            "James Beard - Roland Passot, Best Chefs, Nominee, 2006"
-        ]
-    },
-    {
-        "restaurant": "Perbacco",
-        "chefs": [
-            "Dominique Crenn",
-            "Corey Lee"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Service, Semifinalist, 2015",
-            "James Beard - Outstanding Wine Program, Semifinalist, 2012"
-        ]
-    },
-    {
-        "restaurant": "Coqueta",
-        "chefs": [
-            "Daniel Patterson"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Nominee, 2014"
-        ]
-    },
-    {
-        "restaurant": "The Slanted Door",
-        "chefs": [
-            "Charles Phan",
-            "John Clark",
-            "Matthew Accarrino",
-            "Nancy Oakes",
-            "Nate Appleman",
-            "Corey Lee"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Charles Phan, Outstanding Chef, Semifinalist, 2012",
-            "James Beard - Charles Phan, Outstanding Chef, Semifinalist, 2009",
-            "James Beard - Charles Phan, Best Chefs, Winner, 2004",
-            "James Beard - Outstanding Restaurant, Nominee, 2008",
-            "James Beard - Charles Phan, Outstanding Chef, Nominee, 2011",
-            "James Beard - Charles Phan, Outstanding Chef, Nominee, 2010",
-            "James Beard - Outstanding Restaurant, Semifinalist, 2011",
-            "James Beard - Outstanding Restaurant, Winner, 2014",
-            "James Beard - Outstanding Wine Service, Semifinalist, 2008",
-            "James Beard - Outstanding Restaurant, Nominee, 2013"
+            "James Beard - Best New Restaurant, Semifinalist, 2015",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2015",
+            "James Beard - Roland Passot, Best Chefs, Nominee, 2006",
+            "James Beard - Jeremy Wayne, Rising Star Chef of the Year, Semifinalist, 2015",
+            "James Beard - Roland Passot, Best Chefs, Nominee, 2007"
         ]
     },
     {
         "restaurant": "Gary Danko",
         "chefs": [
-            "Chad Robertson",
-            "Nate Appleman",
             "Gary Danko"
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Outstanding Restaurant, Nominee, 2010",
+            "James Beard - Gary Danko, Outstanding Chef, Nominee, 2002",
             "James Beard - Gary Danko, Outstanding Chef, Nominee, 2010",
-            "James Beard - Outstanding Service, Semifinalist, 2008",
-            "James Beard - Gary Danko, Outstanding Chef, Semifinalist, 2014",
-            "James Beard - Outstanding Wine Service, Nominee, 2010",
-            "James Beard - Outstanding Service, Winner, 2006",
             "James Beard - Gary Danko, Outstanding Chef, Nominee, 2013",
             "James Beard - Gary Danko, Outstanding Chef, Nominee, 2012",
-            "James Beard - Outstanding Service, Nominee, 2006",
+            "James Beard - Outstanding Restaurant, Winner, 2012",
+            "James Beard - Outstanding Service, Semifinalist, 2012",
+            "James Beard - Outstanding Service, Nominee, 2002",
             "James Beard - Gary Danko, Outstanding Chef, Nominee, 2011",
-            "James Beard - Gary Danko, Outstanding Chef, Nominee, 2002"
-        ]
-    },
-    {
-        "restaurant": "Michael Mina",
-        "chefs": [
-            "Fritz Maytag",
-            "John Clark",
-            "Gerald Hirigoyen",
-            "Michael Mina",
-            "Cecilia Chiang",
-            "Gary Danko",
-            "Nancy Oakes",
-            "Danny Bowien"
-        ],
-        "location": "",
-        "awards": [
-            "James Beard - Gerald Hirigoyen, Outstanding Wine & Spirits Professional, Semifinalist, 2008",
-            "James Beard - Outstanding Service, Nominee, 2012",
-            "James Beard - Michael Mina, Outstanding Chef, Semifinalist, 2010",
-            "James Beard - Outstanding Service, Semifinalist, 2013",
-            "James Beard - Michael Mina, Outstanding Chef, Semifinalist, 2009",
-            "James Beard - Michael Mina, Outstanding Chef, Semifinalist, 2011",
-            "James Beard - Lifetime Achievement, Winner, 2013",
-            "James Beard - Outstanding Service, Semifinalist, 2011",
-            "James Beard - Michael Mina, Outstanding Chef, Semifinalist, 2008",
-            "James Beard - Outstanding Service, Nominee, 2010",
-            "James Beard - Lifetime Achievement, Winner, 2008"
+            "James Beard - Outstanding Restaurant, Nominee, 2002",
+            "James Beard - Gary Danko, Outstanding Chef, Semifinalist, 2014"
         ]
     },
     {
@@ -1308,45 +952,23 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Danny Bowien, Rising Star Chef of the Year, Winner, 2013",
-            "James Beard - Danny Bowien, Rising Star Chef of the Year, Nominee, 2012"
+            "James Beard - Danny Bowien, Rising Star Chef of the Year, Nominee, 2012",
+            "James Beard - Danny Bowien, Rising Star Chef of the Year, Winner, 2013"
         ]
     },
     {
         "restaurant": "Flour + Water",
         "chefs": [
-            "Laurence Jossel",
-            "Michael Tusk",
-            "Michael Mina",
             "Emily Luchetti",
-            "Thomas McNaughton"
+            "Thomas McNaughton",
+            "Michael Mina"
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Thomas McNaughton, Rising Star Chef of the Year, Nominee, 2012",
             "James Beard - Thomas McNaughton, Rising Star Chef of the Year, Nominee, 2011",
-            "James Beard - Best New Restaurant, Nominee, 2010",
-            "James Beard - Thomas McNaughton, Rising Star Chef of the Year, Nominee, 2013",
-            "James Beard - Thomas McNaughton, Rising Star Chef of the Year, Nominee, 2012"
-        ]
-    },
-    {
-        "restaurant": "Greens Restaurant",
-        "chefs": [
-            "Matthew Accarrino"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Restaurant, Semifinalist, 2013"
-        ]
-    },
-    {
-        "restaurant": "The Abbot's Cellar",
-        "chefs": [
-            "Matthew Accarrino"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Bar Program, Semifinalist, 2013"
+            "James Beard - Outstanding Service, Nominee, 2013",
+            "James Beard - Thomas McNaughton, Rising Star Chef of the Year, Nominee, 2013"
         ]
     },
     {
@@ -1357,8 +979,8 @@
         "location": "San Francisco, California",
         "awards": [
             "James Beard - Chris Cosentino, Best Chefs, Nominee, 2012",
-            "James Beard - Chris Cosentino, Best Chefs, Nominee, 2013",
-            "James Beard - Chris Cosentino, Best Chefs, Semifinalist, 2009"
+            "James Beard - Chris Cosentino, Best Chefs, Semifinalist, 2009",
+            "James Beard - Chris Cosentino, Best Chefs, Nominee, 2013"
         ]
     },
     {
@@ -1368,51 +990,43 @@
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Outstanding Bar Program, Nominee, 2013",
+            "James Beard - Outstanding Wine Program, Semifinalist, 2013",
+            "James Beard - Outstanding Wine Program, Nominee, 2013",
             "James Beard - Nicolaus Balla, Best Chefs, Semifinalist, 2013"
         ]
     },
     {
         "restaurant": "Stock & Bones",
         "chefs": [
+            "Emily Luchetti",
             "Danny Bowien",
-            "Gary Danko",
-            "Emily Luchetti"
+            "Gary Danko"
         ],
         "location": "San Francisco, California",
         "awards": [
             "James Beard - Danny Bowien, Outstanding Restaurateur, Semifinalist, 2012",
+            "James Beard - Outstanding Wine Program, Nominee, 2012",
+            "James Beard - Outstanding Service, Nominee, 2012",
+            "James Beard - Gary Danko, Outstanding Restaurateur, Semifinalist, 2012",
             "James Beard - Emily Luchetti, Outstanding Restaurateur, Semifinalist, 2012",
-            "James Beard - Gary Danko, Outstanding Restaurateur, Semifinalist, 2012"
+            "James Beard - Best New Restaurant, Semifinalist, 2012"
         ]
     },
     {
-        "restaurant": "Beretta",
+        "restaurant": "The Slanted Door",
         "chefs": [
             "Charles Phan"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Outstanding Bar Program, Semifinalist, 2012"
-        ]
-    },
-    {
-        "restaurant": "AQ",
-        "chefs": [
-            "Melissa Chou"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Nominee, 2012"
-        ]
-    },
-    {
-        "restaurant": "Park Tavern",
-        "chefs": [
-            "Danny Bowien"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Semifinalist, 2012"
+            "James Beard - Charles Phan, Outstanding Chef, Nominee, 2010",
+            "James Beard - Outstanding Bar Program, Semifinalist, 2012",
+            "James Beard - Charles Phan, Best Chefs, Winner, 2004",
+            "James Beard - Outstanding Restaurant, Nominee, 2011",
+            "James Beard - Charles Phan, Outstanding Chef, Semifinalist, 2012",
+            "James Beard - Charles Phan, Outstanding Chef, Nominee, 2011",
+            "James Beard - Charles Phan, Outstanding Chef, Semifinalist, 2009"
         ]
     },
     {
@@ -1422,8 +1036,19 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Loretta Keller, Best Chefs, Semifinalist, 2011",
-            "James Beard - Loretta Keller, Best Chefs, Semifinalist, 2012"
+            "James Beard - Loretta Keller, Best Chefs, Semifinalist, 2012",
+            "James Beard - Loretta Keller, Best Chefs, Semifinalist, 2011"
+        ]
+    },
+    {
+        "restaurant": "Bar Agricole",
+        "chefs": [
+            "Charles Phan"
+        ],
+        "location": "San Francisco, California",
+        "awards": [
+            "James Beard - Charles Phan, Outstanding Restaurant Design, Winner, 2011",
+            "James Beard - Best New Restaurant, Nominee, 2011"
         ]
     },
     {
@@ -1434,39 +1059,72 @@
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Outstanding Service, Nominee, 2010",
+            "James Beard - Outstanding Wine Service, Semifinalist, 2010",
+            "James Beard - Outstanding Wine Service, Nominee, 2011",
+            "James Beard - Outstanding Service, Semifinalist, 2010",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2010",
+            "James Beard - Outstanding Wine Service, Nominee, 2010",
             "James Beard - Gary Danko, Outstanding Restaurateur, Nominee, 2010",
             "James Beard - Michael Tusk, Outstanding Restaurateur, Nominee, 2011"
         ]
     },
     {
-        "restaurant": "Commonwealth",
+        "restaurant": "Michael Mina",
         "chefs": [
-            "John Clark"
+            "Fritz Maytag",
+            "Michael Mina",
+            "Gerald Hirigoyen"
         ],
-        "location": "San Francisco, California",
+        "location": "",
         "awards": [
-            "James Beard - Best New Restaurant, Semifinalist, 2011"
+            "James Beard - Michael Mina, Outstanding Chef, Semifinalist, 2011",
+            "James Beard - Lifetime Achievement, Winner, 2008",
+            "James Beard - Michael Mina, Outstanding Chef, Semifinalist, 2010",
+            "James Beard - Michael Mina, Outstanding Chef, Semifinalist, 2009",
+            "James Beard - Gerald Hirigoyen, Outstanding Wine & Spirits Professional, Semifinalist, 2008",
+            "James Beard - Michael Mina, Outstanding Chef, Semifinalist, 2008"
         ]
     },
     {
-        "restaurant": "Prospect",
+        "restaurant": "Nopa",
         "chefs": [
-            "John Clark"
+            "Laurence Jossel"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Best New Restaurant, Semifinalist, 2011"
-        ]
-    },
-    {
-        "restaurant": "RN74",
-        "chefs": [
-            "Laurence Jossel",
-            "John Clark"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
+            "James Beard - Outstanding Restaurant, Nominee, 2009",
+            "James Beard - Outstanding Restaurant, Nominee, 2010",
+            "James Beard - Outstanding Wine Service, Nominee, 2010",
+            "James Beard - Laurence Jossel, Best Chefs, Semifinalist, 2010",
+            "James Beard - Laurence Jossel, Best Chefs, Semifinalist, 2011",
             "James Beard - Best New Restaurant, Nominee, 2010"
+        ]
+    },
+    {
+        "restaurant": "Foreign Cinema",
+        "chefs": [
+            "John Clark",
+            "Gayle Pirie"
+        ],
+        "location": "San Francisco, California",
+        "awards": [
+            "James Beard - Outstanding Restaurant, Nominee, 2009",
+            "James Beard - Outstanding Restaurant, Nominee, 2010",
+            "James Beard - John Clark, Best Chefs, Semifinalist, 2009",
+            "James Beard - Outstanding Service, Semifinalist, 2011",
+            "James Beard - America's Classics, Winner, 2009",
+            "James Beard - Outstanding Wine Service, Nominee, 2011",
+            "James Beard - Best New Restaurant, Semifinalist, 2011",
+            "James Beard - Gayle Pirie, Best Chefs, Semifinalist, 2011",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2009",
+            "James Beard - Outstanding Restaurant, Nominee, 2011",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2011",
+            "James Beard - John Clark, Best Chefs, Semifinalist, 2011",
+            "James Beard - Gayle Pirie, Best Chefs, Semifinalist, 2009",
+            "James Beard - Best New Restaurant, Nominee, 2010",
+            "James Beard - Outstanding Wine Service, Semifinalist, 2009",
+            "James Beard - Best New Restaurant, Nominee, 2011"
         ]
     },
     {
@@ -1502,31 +1160,16 @@
     {
         "restaurant": "Range",
         "chefs": [
+            "Michelle Polzine",
             "Phil West",
-            "Nancy Oakes",
-            "Michelle Polzine"
+            "Nancy Oakes"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Phil West, Best Chefs, Semifinalist, 2008",
-            "James Beard - Michelle Polzine, Outstanding Pastry Chef, Semifinalist, 2010"
-        ]
-    },
-    {
-        "restaurant": "Delfina",
-        "chefs": [
-            "Carol Field",
-            "Craig Stoll",
-            "Gary Danko",
-            "John Clark"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Craig Stoll, Best Chefs, Nominee, 2007",
-            "James Beard - Outstanding Restaurant, Semifinalist, 2009",
-            "James Beard - Craig Stoll, Best Chefs, Nominee, 2005",
-            "James Beard - Craig Stoll, Best Chefs, Winner, 2008",
-            "James Beard - Outstanding Restaurant, Semifinalist, 2010"
+            "James Beard - Outstanding Restaurant, Nominee, 2008",
+            "James Beard - Michelle Polzine, Outstanding Pastry Chef, Semifinalist, 2010",
+            "James Beard - Outstanding Restaurant, Semifinalist, 2008",
+            "James Beard - Phil West, Best Chefs, Semifinalist, 2008"
         ]
     },
     {
@@ -1536,28 +1179,27 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Loretta Keller, Best Chefs, Semifinalist, 2010",
-            "James Beard - Loretta Keller, Best Chefs, Nominee, 2009"
+            "James Beard - Loretta Keller, Best Chefs, Nominee, 2009",
+            "James Beard - Loretta Keller, Best Chefs, Semifinalist, 2010"
         ]
     },
     {
-        "restaurant": "Frances",
+        "restaurant": "A16",
         "chefs": [
-            "Laurence Jossel"
+            "Nate Appleman"
         ],
-        "location": "San Francisco, California",
+        "location": "San Francisco, USA",
         "awards": [
-            "James Beard - Best New Restaurant, Nominee, 2010"
-        ]
-    },
-    {
-        "restaurant": "Flour & Water",
-        "chefs": [
-            "Laurence Jossel"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Nominee, 2010"
+            "James Beard - Best New Restaurant, Semifinalist, 2008",
+            "James Beard - Nate Appleman, Rising Star Chef of the Year, Nominee, 2008",
+            "James Beard - Outstanding Restaurant, Nominee, 2007",
+            "James Beard - Outstanding Restaurant, Nominee, 2008",
+            "James Beard - Nate Appleman, Rising Star Chef of the Year, Nominee, 2007",
+            "Bib Gourmand",
+            "James Beard - Outstanding Service, Semifinalist, 2008",
+            "James Beard - Outstanding Wine Service, Semifinalist, 2008",
+            "James Beard - Nate Appleman, Rising Star Chef of the Year, Winner, 2009",
+            "James Beard - Outstanding Wine Service, Nominee, 2008"
         ]
     },
     {
@@ -1581,18 +1223,6 @@
         ]
     },
     {
-        "restaurant": "Yank Sing",
-        "chefs": [
-            "Daniel Patterson",
-            "John Clark"
-        ],
-        "location": "San Francisco, USA",
-        "awards": [
-            "Bib Gourmand",
-            "James Beard - America's Classics, Winner, 2009"
-        ]
-    },
-    {
         "restaurant": "Tres Agaves",
         "chefs": [
             "Elisabeth Prueitt",
@@ -1600,8 +1230,8 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Elisabeth Prueitt, Outstanding Restaurant Graphics, Nominee, 2008",
-            "James Beard - Michael Tusk, Outstanding Restaurant Graphics, Nominee, 2008"
+            "James Beard - Michael Tusk, Outstanding Restaurant Graphics, Nominee, 2008",
+            "James Beard - Elisabeth Prueitt, Outstanding Restaurant Graphics, Nominee, 2008"
         ]
     },
     {
@@ -1611,8 +1241,8 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Gerald Hirigoyen, Best Chefs, Semifinalist, 2008",
-            "James Beard - Gerald Hirigoyen, Best Chefs, Nominee, 2006"
+            "James Beard - Gerald Hirigoyen, Best Chefs, Nominee, 2006",
+            "James Beard - Gerald Hirigoyen, Best Chefs, Semifinalist, 2008"
         ]
     },
     {
@@ -1636,29 +1266,38 @@
         ]
     },
     {
-        "restaurant": "Tartine Bakery",
+        "restaurant": "Delfina",
         "chefs": [
-            "Chad Robertson",
-            "Elisabeth Prueitt"
+            "Craig Stoll",
+            "Carol Field"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Elisabeth Prueitt, Outstanding Pastry Chef, Winner, 2008",
-            "James Beard - Chad Robertson, Outstanding Pastry Chef, Nominee, 2006",
-            "James Beard - Elisabeth Prueitt, Outstanding Pastry Chef, Nominee, 2006",
-            "James Beard - Chad Robertson, Outstanding Pastry Chef, Winner, 2008",
-            "James Beard - Elisabeth Prueitt, Outstanding Pastry Chef, Nominee, 2007",
-            "James Beard - Chad Robertson, Outstanding Pastry Chef, Nominee, 2007"
+            "James Beard - Outstanding Service, Nominee, 2004",
+            "James Beard - Outstanding Restaurant, Nominee, 2005",
+            "James Beard - Craig Stoll, Best Chefs, Nominee, 2007",
+            "James Beard - Craig Stoll, Best Chefs, Winner, 2008",
+            "James Beard - Craig Stoll, Best Chefs, Nominee, 2005"
         ]
     },
     {
-        "restaurant": "Green's",
+        "restaurant": "Tartine Bakery",
         "chefs": [
-            "Nancy Oakes"
+            "Elisabeth Prueitt",
+            "Chad Robertson"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Outstanding Restaurant, Semifinalist, 2008"
+            "James Beard - Outstanding Restaurant, Nominee, 2006",
+            "James Beard - Outstanding Restaurant, Nominee, 2008",
+            "James Beard - Elisabeth Prueitt, Outstanding Pastry Chef, Nominee, 2007",
+            "James Beard - Chad Robertson, Outstanding Pastry Chef, Nominee, 2006",
+            "James Beard - Elisabeth Prueitt, Outstanding Pastry Chef, Nominee, 2006",
+            "James Beard - Chad Robertson, Outstanding Pastry Chef, Nominee, 2007",
+            "James Beard - Outstanding Service, Nominee, 2006",
+            "James Beard - Chad Robertson, Outstanding Pastry Chef, Winner, 2008",
+            "James Beard - Outstanding Service, Winner, 2006",
+            "James Beard - Elisabeth Prueitt, Outstanding Pastry Chef, Winner, 2008"
         ]
     },
     {
@@ -1672,40 +1311,24 @@
         ]
     },
     {
-        "restaurant": "Spruce",
-        "chefs": [
-            "Nate Appleman"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Semifinalist, 2008"
-        ]
-    },
-    {
-        "restaurant": "One Market",
-        "chefs": [
-            "Nate Appleman"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Wine Service, Semifinalist, 2008"
-        ]
-    },
-    {
         "restaurant": "Fleur de Lys",
         "chefs": [
-            "Chuck Williams",
-            "Hubert Keller"
+            "Hubert Keller",
+            "Chuck Williams"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Hubert Keller, Outstanding Chef, Nominee, 2001",
-            "James Beard - Hubert Keller, Best Chefs, Winner, 1997",
+            "James Beard - Best New Restaurant, Nominee, 2001",
             "James Beard - Hubert Keller, Best Chefs, Nominee, 1996",
             "James Beard - Hubert Keller, Outstanding Chef, Nominee, 2006",
+            "James Beard - Best New Restaurant, Nominee, 1996",
+            "James Beard - Outstanding Service, Nominee, 1997",
             "James Beard - Hubert Keller, Best Chefs, Nominee, 1993",
+            "James Beard - Outstanding Restaurant, Nominee, 1997",
             "James Beard - Hubert Keller, Best Chefs, Nominee, 1994",
-            "James Beard - Outstanding Service, Nominee, 1997"
+            "James Beard - Hubert Keller, Best Chefs, Winner, 1997",
+            "James Beard - Best New Restaurant, Winner, 1997",
+            "James Beard - Hubert Keller, Outstanding Chef, Nominee, 2001"
         ]
     },
     {
@@ -1721,24 +1344,22 @@
     {
         "restaurant": "Fifth Floor",
         "chefs": [
-            "Judy Rodgers",
-            "Traci Des Jardins",
             "Melissa K. Perello"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Outstanding Wine Service, Nominee, 2004",
             "James Beard - Melissa K. Perello, Rising Star Chef of the Year, Nominee, 2005"
         ]
     },
     {
         "restaurant": "Campton Place",
         "chefs": [
-            "Daniel Humm",
-            "Michael Bauer"
+            "Michael Bauer",
+            "Daniel Humm"
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Outstanding Restaurant, Nominee, 2005",
             "James Beard - Daniel Humm, Rising Star Chef of the Year, Nominee, 2004",
             "James Beard - Daniel Humm, Rising Star Chef of the Year, Nominee, 2005"
         ]
@@ -1746,13 +1367,10 @@
     {
         "restaurant": "Farallon",
         "chefs": [
-            "Emily Luchetti",
-            "Judy Rodgers",
-            "Dante Boccuzzi"
+            "Emily Luchetti"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Best New Restaurant, Nominee, 1998",
             "James Beard - Emily Luchetti, Outstanding Pastry Chef, Winner, 2004"
         ]
     },
@@ -1770,75 +1388,78 @@
     {
         "restaurant": "Zuni Cafe",
         "chefs": [
-            "Judy Rodgers",
-            "Hubert Keller",
-            "Luke Sung",
-            "Traci Des Jardins",
-            "Gary Danko",
-            "Nancy Oakes",
-            "Larry Stone"
+            "Larry Stone",
+            "Judy Rodgers"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Outstanding Restaurant, Nominee, 2000",
+            "James Beard - Best New Restaurant, Nominee, 1995",
+            "James Beard - Outstanding Restaurant, Nominee, 1998",
+            "James Beard - Outstanding Service, Nominee, 2004",
+            "James Beard - Outstanding Wine Service, Nominee, 2004",
+            "James Beard - Outstanding Restaurant, Winner, 2003",
             "James Beard - Judy Rodgers, Best Chefs, Nominee, 1993",
-            "James Beard - Outstanding Restaurant, Nominee, 1999",
+            "James Beard - Judy Rodgers, Best Chefs, Nominee, 1998",
+            "James Beard - Judy Rodgers, Best Chefs, Nominee, 1999",
             "James Beard - Judy Rodgers, Best Chefs, Winner, 2000",
             "James Beard - Judy Rodgers, Best Chefs, Nominee, 1997",
-            "James Beard - Outstanding Restaurant, Winner, 2003",
-            "James Beard - Judy Rodgers, Best Chefs, Nominee, 1999",
-            "James Beard - Judy Rodgers, Best Chefs, Nominee, 1996",
             "James Beard - Judy Rodgers, Outstanding Chef, Winner, 2004",
-            "James Beard - Judy Rodgers, Best Chefs, Nominee, 1998",
-            "James Beard - Outstanding Restaurant, Nominee, 2002"
+            "James Beard - Judy Rodgers, Best Chefs, Nominee, 1996"
         ]
     },
     {
         "restaurant": "Anchor Brewing Co.",
         "chefs": [
-            "Judy Rodgers",
             "Hubert Keller",
-            "Joyce Goldstein",
+            "Julian Serrano",
             "Larry Stone",
+            "Judy Rodgers",
             "Nancy Oakes",
             "Gary Danko",
-            "Julian Serrano"
+            "Joyce Goldstein"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Nancy Oakes, Outstanding Wine & Spirits Professional, Nominee, 2001",
-            "James Beard - Larry Stone, Outstanding Wine & Spirits Professional, Nominee, 1999",
             "James Beard - Julian Serrano, Outstanding Wine & Spirits Professional, Nominee, 1997",
-            "James Beard - Hubert Keller, Outstanding Wine & Spirits Professional, Winner, 2003",
-            "James Beard - Nancy Oakes, Outstanding Wine & Spirits Professional, Nominee, 2000",
-            "James Beard - Judy Rodgers, Outstanding Wine & Spirits Professional, Nominee, 1998",
             "James Beard - Nancy Oakes, Outstanding Wine & Spirits Professional, Nominee, 1995",
+            "James Beard - Hubert Keller, Outstanding Wine & Spirits Professional, Winner, 2003",
+            "James Beard - Best New Restaurant, Winner, 2000",
+            "James Beard - America's Classics, Winner, 1998",
+            "James Beard - Outstanding Restaurant, Nominee, 2000",
+            "James Beard - Outstanding Service, Nominee, 2000",
+            "James Beard - Outstanding Service, Nominee, 2002",
             "James Beard - Gary Danko, Outstanding Wine & Spirits Professional, Nominee, 2002",
-            "James Beard - Joyce Goldstein, Outstanding Wine & Spirits Professional, Nominee, 1993"
+            "James Beard - Larry Stone, Outstanding Wine & Spirits Professional, Nominee, 1999",
+            "James Beard - Joyce Goldstein, Outstanding Wine & Spirits Professional, Nominee, 1993",
+            "James Beard - Judy Rodgers, Outstanding Wine & Spirits Professional, Nominee, 1998",
+            "James Beard - Best New Restaurant, Nominee, 1998",
+            "James Beard - Nancy Oakes, Outstanding Wine & Spirits Professional, Nominee, 2001",
+            "James Beard - Outstanding Restaurant, Nominee, 2002",
+            "James Beard - Outstanding Wine Service, Nominee, 2002",
+            "James Beard - Nancy Oakes, Outstanding Wine & Spirits Professional, Nominee, 2000"
         ]
     },
     {
         "restaurant": "Rubicon",
         "chefs": [
-            "Judy Rodgers",
             "Hubert Keller",
             "Michael Mina",
+            "Chuck Williams",
             "Traci Des Jardins",
-            "Nancy Oakes",
-            "Chuck Williams"
+            "Nancy Oakes"
         ],
-        "location": "San Francisco, California",
+        "location": "",
         "awards": [
-            "James Beard - Outstanding Wine Service, Winner, 2000",
-            "James Beard - Nancy Oakes, Outstanding Wine & Spirits Professional, Nominee, 1999",
             "James Beard - Best New Restaurant, Nominee, 1995",
-            "James Beard - Nancy Oakes, Outstanding Wine & Spirits Professional, Nominee, 1998",
+            "James Beard - Nancy Oakes, Outstanding Wine & Spirits Professional, Nominee, 1999",
             "James Beard - Lifetime Achievement, Winner, 1995",
-            "James Beard - Michael Mina, Outstanding Wine & Spirits Professional, Nominee, 2002",
+            "James Beard - Outstanding Restaurant, Winner, 2003",
+            "James Beard - Traci Des Jardins, Rising Star Chef of the Year, Winner, 1995",
             "James Beard - Hubert Keller, Outstanding Wine & Spirits Professional, Nominee, 2003",
+            "James Beard - Nancy Oakes, Outstanding Wine & Spirits Professional, Nominee, 1998",
             "James Beard - Traci Des Jardins, Outstanding Wine & Spirits Professional, Nominee, 1995",
-            "James Beard - Michael Mina, Outstanding Wine & Spirits Professional, Nominee, 1997",
-            "James Beard - Traci Des Jardins, Rising Star Chef of the Year, Winner, 1995"
+            "James Beard - Michael Mina, Outstanding Wine & Spirits Professional, Nominee, 2002",
+            "James Beard - Michael Mina, Outstanding Wine & Spirits Professional, Nominee, 1997"
         ]
     },
     {
@@ -1849,37 +1470,28 @@
         "location": "San Francisco, California",
         "awards": [
             "James Beard - Luke Sung, Rising Star Chef of the Year, Nominee, 2003",
-            "James Beard - Luke Sung, Rising Star Chef of the Year, Nominee, 2002"
+            "James Beard - Outstanding Service, Nominee, 2002",
+            "James Beard - Outstanding Service, Nominee, 2001",
+            "James Beard - Luke Sung, Rising Star Chef of the Year, Nominee, 2002",
+            "James Beard - Outstanding Restaurant, Nominee, 2002",
+            "James Beard - Outstanding Wine Service, Nominee, 2002"
         ]
     },
     {
         "restaurant": "Aqua",
         "chefs": [
-            "Nancy Oakes",
-            "Larry Stone",
-            "Michael Mina",
-            "Luke Sung"
+            "Michael Mina"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Michael Mina, Best Chefs, Winner, 2002",
-            "James Beard - Michael Mina, Rising Star Chef of the Year, Winner, 1997",
-            "James Beard - Michael Mina, Rising Star Chef of the Year, Nominee, 1996",
-            "James Beard - Outstanding Service, Nominee, 2000",
+            "James Beard - Best New Restaurant, Nominee, 2001",
             "James Beard - Michael Mina, Best Chefs, Nominee, 2001",
-            "James Beard - Outstanding Restaurant, Nominee, 2002",
-            "James Beard - Michael Mina, Best Chefs, Nominee, 2000"
-        ]
-    },
-    {
-        "restaurant": "PlumpJack Cafe",
-        "chefs": [
-            "Gary Danko",
-            "Luke Sung"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Outstanding Wine Service, Nominee, 2002"
+            "James Beard - Michael Mina, Rising Star Chef of the Year, Nominee, 1996",
+            "James Beard - Outstanding Wine Service, Winner, 2000",
+            "James Beard - Michael Mina, Best Chefs, Nominee, 2000",
+            "James Beard - Michael Mina, Rising Star Chef of the Year, Winner, 1997",
+            "James Beard - Outstanding Service, Nominee, 2001",
+            "James Beard - Michael Mina, Best Chefs, Winner, 2002"
         ]
     },
     {
@@ -1899,28 +1511,8 @@
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Outstanding Service, Nominee, 2001",
             "James Beard - Luke Sung, Outstanding Wine & Spirits Professional, Winner, 2001"
-        ]
-    },
-    {
-        "restaurant": "Elisabeth Daniel",
-        "chefs": [
-            "Michael Mina",
-            "Hubert Keller"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Nominee, 2001"
-        ]
-    },
-    {
-        "restaurant": "Danko",
-        "chefs": [
-            "Nancy Oakes"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Winner, 2000"
         ]
     },
     {
@@ -1936,52 +1528,36 @@
     {
         "restaurant": "Kermit Lynch Wine Merchants",
         "chefs": [
-            "Steve Sullivan",
+            "Alice Waters",
             "Larry Stone",
-            "Alice Waters"
+            "Steve Sullivan"
         ],
         "location": "Berkeley, California",
         "awards": [
+            "James Beard - Steve Sullivan, Outstanding Wine & Spirits Professional, Nominee, 1994",
+            "James Beard - Alice Waters, Outstanding Wine & Spirits Professional, Nominee, 1999",
+            "James Beard - Alice Waters, Outstanding Wine & Spirits Professional, Nominee, 1996",
             "James Beard - Alice Waters, Outstanding Wine & Spirits Professional, Nominee, 1995",
             "James Beard - Larry Stone, Outstanding Wine & Spirits Professional, Winner, 2000",
-            "James Beard - Steve Sullivan, Outstanding Wine & Spirits Professional, Nominee, 1994",
-            "James Beard - Alice Waters, Outstanding Wine & Spirits Professional, Nominee, 1996",
-            "James Beard - Alice Waters, Outstanding Wine & Spirits Professional, Nominee, 1999"
-        ]
-    },
-    {
-        "restaurant": "Masa's",
-        "chefs": [
-            "Judy Rodgers",
-            "Hubert Keller",
-            "Joyce Goldstein",
-            "Traci Des Jardins",
-            "Julian Serrano"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Julian Serrano, Best Chefs, Nominee, 1996",
-            "James Beard - Outstanding Restaurant, Nominee, 1998",
-            "James Beard - Outstanding Restaurant, Nominee, 1999",
-            "James Beard - Outstanding Restaurant, Nominee, 1997",
-            "James Beard - Julian Serrano, Best Chefs, Winner, 1998",
-            "James Beard - Outstanding Wine Service, Nominee, 1993",
-            "James Beard - Julian Serrano, Best Chefs, Nominee, 1994"
+            "James Beard - Outstanding Service, Nominee, 2000"
         ]
     },
     {
         "restaurant": "MC Squared",
         "chefs": [
-            "Judy Rodgers",
             "Dante Boccuzzi",
+            "Judy Rodgers",
             "Traci Des Jardins"
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Outstanding Restaurant, Nominee, 1998",
             "James Beard - Judy Rodgers, Outstanding Restaurant Design, Winner, 1999",
-            "James Beard - Traci Des Jardins, Outstanding Restaurant Design, Winner, 1999",
             "James Beard - Judy Rodgers, Outstanding Restaurant Graphics, Winner, 1999",
-            "James Beard - Dante Boccuzzi, Outstanding Restaurant Graphics, Winner, 1999"
+            "James Beard - Outstanding Restaurant, Nominee, 1999",
+            "James Beard - Dante Boccuzzi, Outstanding Restaurant Graphics, Winner, 1999",
+            "James Beard - Best New Restaurant, Nominee, 1998",
+            "James Beard - Traci Des Jardins, Outstanding Restaurant Design, Winner, 1999"
         ]
     },
     {
@@ -2001,65 +1577,46 @@
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Best New Restaurant, Nominee, 1998",
             "James Beard - Dante Boccuzzi, Rising Star Chef of the Year, Nominee, 1998"
-        ]
-    },
-    {
-        "restaurant": "Jardiniere",
-        "chefs": [
-            "Dante Boccuzzi"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Nominee, 1998"
         ]
     },
     {
         "restaurant": "Rose Pistola",
         "chefs": [
-            "Julian Serrano",
-            "Reed Hearon",
-            "Hubert Keller"
+            "Reed Hearon"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Reed Hearon, Best Chefs, Nominee, 1998",
+            "James Beard - Reed Hearon, Best Chefs, Nominee, 1998"
+        ]
+    },
+    {
+        "restaurant": "Masa's",
+        "chefs": [
+            "Julian Serrano"
+        ],
+        "location": "San Francisco, California",
+        "awards": [
+            "James Beard - Julian Serrano, Best Chefs, Nominee, 1994",
+            "James Beard - Julian Serrano, Best Chefs, Winner, 1998",
+            "James Beard - Julian Serrano, Best Chefs, Nominee, 1996",
             "James Beard - Best New Restaurant, Winner, 1997"
-        ]
-    },
-    {
-        "restaurant": "Tadich Grill",
-        "chefs": [
-            "Judy Rodgers"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - America's Classics, Winner, 1998"
-        ]
-    },
-    {
-        "restaurant": "Betelnut",
-        "chefs": [
-            "Jeremiah Tower",
-            "Hubert Keller"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Nominee, 1996"
         ]
     },
     {
         "restaurant": "Stars",
         "chefs": [
-            "Jeremiah Tower",
+            "Emily Luchetti",
             "Harold McGee",
-            "Emily Luchetti"
+            "Jeremiah Tower"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Jeremiah Tower, Outstanding Chef, Nominee, 1995",
             "James Beard - Jeremiah Tower, Best Chefs, Winner, 1993",
             "James Beard - Emily Luchetti, Outstanding Pastry Chef, Nominee, 1994",
+            "James Beard - Best New Restaurant, Nominee, 1996",
+            "James Beard - Jeremiah Tower, Outstanding Chef, Nominee, 1995",
             "James Beard - Jeremiah Tower, Outstanding Chef, Winner, 1996"
         ]
     },
@@ -2070,6 +1627,7 @@
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Best New Restaurant, Nominee, 1995",
             "James Beard - Nancy Oakes, Outstanding Restaurant Design, Nominee, 1995"
         ]
     },
@@ -2100,8 +1658,8 @@
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Gary Danko, Best Chefs, Nominee, 1994",
-            "James Beard - Gary Danko, Best Chefs, Nominee, 1993"
+            "James Beard - Gary Danko, Best Chefs, Nominee, 1993",
+            "James Beard - Gary Danko, Best Chefs, Nominee, 1994"
         ]
     },
     {
@@ -2129,13 +1687,12 @@
     {
         "restaurant": "Square One",
         "chefs": [
-            "Joyce Goldstein",
-            "Alain Rondelli"
+            "Joyce Goldstein"
         ],
         "location": "San Francisco, California",
         "awards": [
-            "James Beard - Outstanding Wine Service, Winner, 1991",
             "James Beard - Joyce Goldstein, Outstanding Chef, Nominee, 1993",
+            "James Beard - Outstanding Wine Service, Nominee, 1993",
             "James Beard - Joyce Goldstein, Best Chefs, Winner, 1994"
         ]
     },
@@ -2156,53 +1713,29 @@
         ],
         "location": "San Francisco, California",
         "awards": [
+            "James Beard - Outstanding Wine Service, Winner, 1991",
             "James Beard - Alain Rondelli, Best Chefs, Nominee, 1992"
         ]
     },
     {
         "restaurant": "Monsoon",
         "chefs": [
-            "Bruce Cost",
-            "Gerald Asher",
-            "Fritz Maytag",
-            "Judy Rodgers",
+            "Shirley Sarvis",
             "Patricia Unterman",
             "Jesse Sartain",
-            "Joyce Goldstein",
+            "Gerald Asher",
+            "Fritz Maytag",
             "Dafne/Mats Engstrom",
-            "Shirley Sarvis"
-        ],
-        "location": "San Francisco, California",
-        "awards": [
-            "James Beard - Bruce Cost, Best Chefs, Nominee, 1991"
-        ]
-    },
-    {
-        "restaurant": "Chez Panisse",
-        "chefs": [
-            "Dafne/Mats Engstrom",
-            "Paul Bertolli",
-            "Lindsey Shere",
-            "Alice Waters"
+            "Bruce Cost",
+            "Judy Rodgers",
+            "Joyce Goldstein"
         ],
         "location": "Berkeley, California",
         "awards": [
-            "James Beard - Design Icon, Winner, 2020",
-            "James Beard - Lindsey Shere, Outstanding Pastry Chef, Winner, 1993",
-            "James Beard - Outstanding Restaurant, Winner, 1992",
-            "James Beard - Alice Waters, Outstanding Chef, Winner, 1992"
-        ]
-    },
-    {
-        "restaurant": "Great China",
-        "chefs": [
-            "Dafne/Mats Engstrom"
-        ],
-        "location": "Berkeley, USA",
-        "awards": [
-            "James Beard - Outstanding Wine Program, Semifinalist, 2020",
+            "James Beard - Bruce Cost, Best Chefs, Nominee, 1991",
             "James Beard - Outstanding Wine Program, Semifinalist, 2019",
-            "Bib Gourmand",
+            "James Beard - Outstanding Wine Program, Semifinalist, 2020",
+            "James Beard - Design Icon, Winner, 2020",
             "James Beard - Outstanding Wine Program, Semifinalist, 2018"
         ]
     },
@@ -2213,32 +1746,32 @@
         ],
         "location": "Berkeley, USA",
         "awards": [
-            "Bib Gourmand",
-            "James Beard - Christian Geideman, Best Chefs, Semifinalist, 2017"
+            "James Beard - Christian Geideman, Best Chefs, Semifinalist, 2017",
+            "Bib Gourmand"
         ]
     },
     {
         "restaurant": "Lot 12 Public House",
         "chefs": [
+            "Damian Heath",
             "Kermit Lynch",
             "Alice Waters",
-            "Damian Heath",
-            "Steve Sullivan",
-            "Michael Pollan"
+            "Michael Pollan",
+            "Steve Sullivan"
         ],
         "location": "",
         "awards": [
-            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2012",
+            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2016",
+            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2014",
+            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2009",
+            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2015",
             "James Beard - Damian Heath, Best Chefs, Semifinalist, 2017",
             "James Beard - Damian Heath, Best Chefs, Semifinalist, 2013",
             "James Beard - Damian Heath, Best Chefs, Semifinalist, 2011",
-            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2015",
-            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2014",
-            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2016",
-            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2009",
-            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2008",
+            "James Beard - Lifetime Achievement, Winner, 2004",
             "James Beard - Damian Heath, Best Chefs, Semifinalist, 2010",
-            "James Beard - Lifetime Achievement, Winner, 2004"
+            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2008",
+            "James Beard - Damian Heath, Best Chefs, Semifinalist, 2012"
         ]
     },
     {
@@ -2262,6 +1795,20 @@
         ]
     },
     {
+        "restaurant": "Chez Panisse",
+        "chefs": [
+            "Alice Waters",
+            "Paul Bertolli",
+            "Lindsey Shere"
+        ],
+        "location": "Berkeley, California",
+        "awards": [
+            "James Beard - Alice Waters, Outstanding Chef, Winner, 1992",
+            "James Beard - Outstanding Restaurant, Winner, 1992",
+            "James Beard - Lindsey Shere, Outstanding Pastry Chef, Winner, 1993"
+        ]
+    },
+    {
         "restaurant": "Lion Dance Caf\u00e9",
         "chefs": [
             "Shane Stanbridge",
@@ -2269,8 +1816,8 @@
         ],
         "location": "Oakland, California",
         "awards": [
-            "James Beard - Shane Stanbridge, Best Chef California, Semifinalist, 2024",
-            "James Beard - C-Y Chia, Best Chef California, Semifinalist, 2024"
+            "James Beard - C-Y Chia, Best Chef California, Semifinalist, 2024",
+            "James Beard - Shane Stanbridge, Best Chef California, Semifinalist, 2024"
         ]
     },
     {
@@ -2300,8 +1847,8 @@
         ],
         "location": "Oakland, USA",
         "awards": [
-            "Bib Gourmand",
-            "James Beard - Intu-on Kornnawong, Best Chef California, Semifinalist, 2023"
+            "James Beard - Intu-on Kornnawong, Best Chef California, Semifinalist, 2023",
+            "Bib Gourmand"
         ]
     },
     {
@@ -2321,23 +1868,16 @@
         ],
         "location": "Oakland, USA",
         "awards": [
-            "James Beard - James Syhabout, Best Chefs, Semifinalist, 2020",
-            "James Beard - James Syhabout, Best Chefs, Nominee, 2022",
-            "James Beard - James Syhabout, Best Chefs, Semifinalist, 2019",
             "James Beard - James Syhabout, Best Chefs, Semifinalist, 2011",
-            "2 Michelin Star",
+            "James Beard - Best New Restaurant, Semifinalist, 2010",
+            "James Beard - Outstanding Bar Program, Semifinalist, 2022",
+            "James Beard - James Syhabout, Best Chefs, Semifinalist, 2020",
+            "James Beard - Best New Restaurant, Semifinalist, 2009",
             "James Beard - James Syhabout, Best Chefs, Semifinalist, 2016",
+            "James Beard - James Syhabout, Best Chefs, Nominee, 2022",
+            "2 Michelin Star",
+            "James Beard - James Syhabout, Best Chefs, Semifinalist, 2019",
             "James Beard - James Syhabout, Best Chefs, Semifinalist, 2014"
-        ]
-    },
-    {
-        "restaurant": "Friends and Family",
-        "chefs": [
-            "James Syhabout"
-        ],
-        "location": "Oakland, California",
-        "awards": [
-            "James Beard - Outstanding Bar Program, Semifinalist, 2022"
         ]
     },
     {
@@ -2347,26 +1887,8 @@
         ],
         "location": "Oakland, California",
         "awards": [
-            "James Beard - Crystal Wahpepah, Emerging Chef of the Year, Nominee, 2022"
-        ]
-    },
-    {
-        "restaurant": "Horn BBQ",
-        "chefs": [
-            "Crystal Wahpepah"
-        ],
-        "location": "Oakland, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Nominee, 2022"
-        ]
-    },
-    {
-        "restaurant": "The Punchdown",
-        "chefs": [
-            "Crystal Wahpepah"
-        ],
-        "location": "Oakland, California",
-        "awards": [
+            "James Beard - Crystal Wahpepah, Emerging Chef of the Year, Nominee, 2022",
+            "James Beard - Best New Restaurant, Nominee, 2022",
             "James Beard - Outstanding Wine Program, Semifinalist, 2022"
         ]
     },
@@ -2377,17 +1899,8 @@
         ],
         "location": "Oakland, California",
         "awards": [
+            "James Beard - Best New Restaurant, Semifinalist, 2019",
             "James Beard - James Syhabout, Outstanding Wine, Spirits, or Beer Producer, Semifinalist, 2020"
-        ]
-    },
-    {
-        "restaurant": "Nyum Bai",
-        "chefs": [
-            "James Syhabout"
-        ],
-        "location": "Oakland, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Semifinalist, 2019"
         ]
     },
     {
@@ -2407,8 +1920,8 @@
         ],
         "location": "Oakland, California",
         "awards": [
-            "James Beard - Reem Assil, Best Chefs, Semifinalist, 2019",
-            "James Beard - Reem Assil, Best Chefs, Semifinalist, 2018"
+            "James Beard - Reem Assil, Best Chefs, Semifinalist, 2018",
+            "James Beard - Reem Assil, Best Chefs, Semifinalist, 2019"
         ]
     },
     {
@@ -2425,33 +1938,11 @@
     {
         "restaurant": "Camino",
         "chefs": [
-            "James Syhabout",
             "Russell Moore"
         ],
         "location": "Oakland, California",
         "awards": [
-            "James Beard - Best New Restaurant, Semifinalist, 2009",
             "James Beard - Russell Moore, Best Chefs, Semifinalist, 2015"
-        ]
-    },
-    {
-        "restaurant": "A Mano",
-        "chefs": [
-            "James Syhabout"
-        ],
-        "location": "Oakland, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Semifinalist, 2010"
-        ]
-    },
-    {
-        "restaurant": "Adesso",
-        "chefs": [
-            "James Syhabout"
-        ],
-        "location": "Oakland, California",
-        "awards": [
-            "James Beard - Best New Restaurant, Semifinalist, 2010"
         ]
     },
     {
@@ -2476,6 +1967,14 @@
         ]
     },
     {
+        "restaurant": "Kiln",
+        "chefs": [],
+        "location": "San Francisco, USA",
+        "awards": [
+            "1 Michelin Star"
+        ]
+    },
+    {
         "restaurant": "Dumpling Home",
         "chefs": [],
         "location": "San Francisco, USA",
@@ -2492,6 +1991,14 @@
         ]
     },
     {
+        "restaurant": "The Progress",
+        "chefs": [],
+        "location": "San Francisco, USA",
+        "awards": [
+            "1 Michelin Star"
+        ]
+    },
+    {
         "restaurant": "Bansang",
         "chefs": [],
         "location": "San Francisco, USA",
@@ -2505,6 +2012,14 @@
         "location": "San Francisco, USA",
         "awards": [
             "1 Michelin Star"
+        ]
+    },
+    {
+        "restaurant": "Acquerello",
+        "chefs": [],
+        "location": "San Francisco, USA",
+        "awards": [
+            "2 Michelin Star"
         ]
     },
     {
@@ -2636,6 +2151,14 @@
         ]
     },
     {
+        "restaurant": "Yank Sing",
+        "chefs": [],
+        "location": "San Francisco, USA",
+        "awards": [
+            "Bib Gourmand"
+        ]
+    },
+    {
         "restaurant": "Angler SF",
         "chefs": [],
         "location": "San Francisco, USA",
@@ -2735,6 +2258,14 @@
         "restaurant": "Millennium",
         "chefs": [],
         "location": "Oakland, USA",
+        "awards": [
+            "Bib Gourmand"
+        ]
+    },
+    {
+        "restaurant": "Great China",
+        "chefs": [],
+        "location": "Berkeley, USA",
         "awards": [
             "Bib Gourmand"
         ]

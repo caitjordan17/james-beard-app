@@ -1,3 +1,19 @@
+CHEF: Srijith Gopinathan, Copra, James Beard - Srijith Gopinathan, Best Chef California, Semifinalist, 2024
+CHEF: Kristina Costa, Loquat, James Beard - Kristina Costa, Outstanding Pastry Chef, Semifinalist, 2024
+CHEF: Laura Ozyilmaz, Dalida, James Beard - Laura Ozyilmaz, Best Chef California, Semifinalist, 2024
+CHEF: Azalina Eusope, Azalina's, James Beard - Azalina Eusope, Best Chef California, Semifinalist, 2024
+CHEF: Jeong-In Hwang, San Ho Won, James Beard - Jeong-In Hwang, Best Chef California, Semifinalist, 2024
+
+RESTAURANT: Copra, James Beard - Outstanding Hospitality, Semifinalist, 2024
+RESTAURANT: The Morris, James Beard - Outstanding Wine & Other Beverages Program, Nominee, 2024
+RESTAURANT: Kiln, James Beard - Best New Restaurant, Semifinalist, 2024
+RESTAURANT: Mandalay, James Beard - America's Classics, Winner, 2024
+RESTAURANT: Pacific Cocktail Haven, James Beard - Outstanding Bar, Nominee, 2024
+RESTAURANT: Californios, James Beard - Outstanding Hospitality, Semifinalist, 2023
+RESTAURANT: Birch & Rye, James Beard - Best New Restaurant, Semifinalist, 2023
+RESTAURANT: Trick Dog, James Beard - Outstanding Bar Program, Semifinalist, 2023
+RESTAURANT: Mourad, James Beard - Outstanding Restaurant, Semifinalist, 2023
+
 dict_items(
     [
         ('Copra', 

@@ -36,24 +36,27 @@ def scrape_jamesbeard():
                 if all(excluded not in award_text for excluded in ["Restauranteur", "Hospitality"]):
                     if any(keyword in award_text for keyword in ["Chef", "Baker", "Lifetime", "Who"]) and "Bakery" not in award_text:
                         chef = name.text.strip()
-                    else:
-                        restaurant = name.text.strip()
+                else:
+                    restaurant = name.text.strip()
+                    chef = None
 
                     # add in google places api section
                     # lazy bear problem
-                        # happening with James Beard - Outstanding Hospitality, Semifinalist, 2024
-                        # why is this bucketing under "Copra"
-                        # because there is no chef?
+                    # happening with James Beard - Outstanding Hospitality, Semifinalist, 2024
+                    # why is this bucketing under "Copra"
+                    # because there is no chef?
 
-                if len(award_details) == 5:  # restaurant award
+                if len(award_details) == 5 or award_text == "Outstanding Hospitality":  # restaurant award
                     location = award_details[1].text.strip()
-                    award_name = f'James Beard - {award_details[0].text.strip()}, {award_details[3].text.strip()}, {
+                    award_name = f'James Beard - {award_text}, {award_details[3].text.strip()}, {
                         award_details[4].text.strip()}'
                 elif len(award_details) == 6:  # chef award
                     restaurant = award_details[1].text.strip()
                     location = award_details[2].text.strip()
-                    award_name = f'James Beard - {chef}, {award_details[0].text.strip()}, {award_details[4].text.strip()}, {
+                    award_name = f'James Beard - {chef}, {award_text}, {award_details[4].text.strip()}, {
                         award_details[5].text.strip()}'
+                else:
+                    print("Award length error:", name, award_text)
 
                 restaurant_data[restaurant]["location"] = location
                 restaurant_data[restaurant]["awards"].add(award_name)

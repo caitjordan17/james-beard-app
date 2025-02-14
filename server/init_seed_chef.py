@@ -12,19 +12,28 @@ restaurant_data = load_json_data()
 
 def init_seed_chef_json(filename="manual_chef_db.json"):
     chef_dict = {}
+
     for entry in restaurant_data:
         restaurant = entry["restaurant"]
         location = entry["location"]
+        business_status = "Unknown"
+        award_count = len(entry["awards"])
+
         for chef in entry["chefs"]:
             if chef not in chef_dict:
-                chef_dict[chef] = set()
-            chef_dict[chef].add(f'{restaurant}, {location}')
+                chef_dict[chef] = []
+            chef_dict[chef].append({
+                restaurant: {
+                    "location": location,
+                    "business_status": business_status,
+                    "award_count": award_count
+                }
+            })
 
     formatted_data = [
         {
             "chef": chef,
-            "award_restaurants": list(restaurants),
-            "other_restaurants": []
+            "restaurants": restaurants,
         }
         for chef, restaurants in chef_dict.items()
     ]
