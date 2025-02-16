@@ -41,10 +41,6 @@ def scrape_jamesbeard():
                     chef = None
 
                     # add in google places api section
-                    # lazy bear problem
-                    # happening with James Beard - Outstanding Hospitality, Semifinalist, 2024
-                    # why is this bucketing under "Copra"
-                    # because there is no chef?
 
                 if len(award_details) == 5 or award_text == "Outstanding Hospitality":  # restaurant award
                     location = award_details[1].text.strip()
